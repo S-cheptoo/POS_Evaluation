@@ -1,0 +1,37 @@
+Obj/GNU_ARM_DEBUG_TETRA/POS.axf  :
+section            size    addr
+.interp              19   33076
+.note.ABI-tag        32   33096
+.hash               352   33128
+.dynsym             784   33480
+.dynstr             689   34264
+.gnu.version         98   34954
+.gnu.version_r      112   35052
+.rel.dyn             32   35164
+.rel.plt            272   35196
+.init                12   35468
+.plt                440   35480
+.text             11452   35920
+.fini                 8   47372
+.rodata            1372   47380
+.ARM.exidx            8   48752
+.eh_frame             4   48760
+.init_array           8   81920
+.fini_array          12   81928
+.jcr                  4   81940
+.dynamic            256   81944
+.got                212   82200
+.data               680   82416
+.bss                132   83096
+.comment            134       0
+.ARM.attributes      65       0
+.debug_aranges      160       0
+.debug_info       18414       0
+.debug_abbrev      1591       0
+.debug_line        2505       0
+.debug_frame       1176       0
+.debug_str         7160       0
+.debug_loc         1918       0
+Total             50113
+
+

@@ -1,0 +1,20 @@
+Obj/GNU_ARM_DEBUG_T2/POS.axf  :
+section             size      addr
+.text              36880      4096
+.rodata             3628     40976
+.data               2628   2097152
+.bss                 380   2099780
+.ARM.attributes       16         0
+.comment              35         0
+.debug_abbrev       8871         0
+.debug_info        54550         0
+.debug_line        11555         0
+.debug_frame        3624         0
+.debug_pubnames     2784         0
+.debug_aranges      1152         0
+.debug_str         14420         0
+.debug_loc         19050         0
+.debug_ranges        160         0
+Total             159733
+
+

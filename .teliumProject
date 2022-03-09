@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?teliumProject version="9.1"?><?ingedev version="8.18.0.5"?><projectDescription activeConfig="GNU_ARM_DEBUG_T2" enableUsingCpp="true" projectType="APP">
+<virtualFolders>
+<virtualFolder name="Other Files" sources="false"/>
+<virtualFolder name="Source Files" sources="true">
+<file generated="false" name="Src/Main.c" parentProject=""/>
+<file generated="false" name="Src/Entry.c" parentProject=""/>
+<file generated="false" name="Src/Menu.c" parentProject=""/>
+<file generated="false" name="Src/DateScreen.c" parentProject=""/>
+<file generated="false" name="Src/Utils.c" parentProject=""/>
+<file generated="false" name="Src/MenuManager.c" parentProject=""/>
+<file generated="false" name="Src/Sale.c" parentProject=""/>
+<file generated="false" name="Src/CashBack.c" parentProject=""/>
+<file generated="false" name="Src/UserInterface.c" parentProject=""/>
+<file generated="false" name="Src/CardSwipe.c" parentProject=""/>
+<file generated="false" name="Src/globals.c" parentProject=""/>
+<file generated="false" name="Src/Print.c" parentProject=""/>
+<file generated="false" name="Src/Goal.c" parentProject=""/>
+</virtualFolder>
+<archiveFilesVirtualFolder name="Archive Files">
+<archive archiveModifierName="gmlToTbrConverter" dirParentProject="" directoryToArchive="GOAL/Resources" name="Bin/Resources.tar"/>
+</archiveFilesVirtualFolder>
+</virtualFolders>
+<configs>
+<config applicationType="0x6e" asmCpuMode="thumb" binaryName="POS" codeBaseAddr="0x00001000" compiler="gnuArm4" compilerCustomOpt="" cpuMode="thumb" crc="false" dataBaseAddr="0x00200000" dataBinaryFileBaseName="DATA006E" defaultTeliumCompatibility="Telium 2" enableCPPExceptions="false" gnu4StackProtectionMode="ProPolice" gnuOptim="-O0" hardware="Telium 2" linkerCustomOpt="" name="GNU_ARM_DEBUG_T2" projectFamily="POS" sign="false" stackProtectorMode="-fstack-protector-all" useDataFileNamingConvention="true" zip="false">
+<teliumCompatibilities>
+<teliumCompatibility value="Telium 2"/>
+</teliumCompatibilities>
+<userIncs>
+<userInc value="Inc"/>
+<userInc value="IncGen"/>
+</userIncs>
+<teliumSdkPackages>
+<teliumSdkPackage package="Telium SDK" version="11.16.8.PatchC"/>
+</teliumSdkPackages>
+<dataFiles>
+<dataFile alias="Resources" isDefault="true" name="Bin/Resources.tar" parentProject="">
+<targetTerminals/>
+</dataFile>
+</dataFiles>
+<userDefines>
+<userDefine value="_ING_TELIUM_SDK_LOC=&quot;${telium_sdk_loc}&quot;"/>
+<userDefine value="_ING_TELIUM_SDK_NAME=&quot;${telium_sdk_name}&quot;"/>
+<userDefine value="_ING_TELIUM_SDK_VERSION=&quot;${telium_sdk_version}&quot;"/>
+<userDefine value="_ING_APPLI_BINARY_NAME=&quot;${appli_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FAMILY=&quot;${appli_family}&quot;"/>
+<userDefine value="_ING_APPLI_TYPE=${appli_type}"/>
+<userDefine value="_ING_APPLI_TELIUM1_FULL_BINARY_NAME=&quot;${appli_telium1_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM2_FULL_BINARY_NAME=&quot;${appli_telium2_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_COMPATIBILITY=&quot;${appli_telium_compatibility}&quot;"/>
+<userDefine value="_ING_APPLI_SIGN_MODE=&quot;${appli_sign_mode}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_BINARY_NAME=&quot;${appli_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_DATA_FILE_BINARY_NAME=&quot;${appli_full_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM1_BINARY_NAME=&quot;${appli_data_file_telium1_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM2_BINARY_NAME=&quot;${appli_data_file_telium2_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_CURRENT_CONFIG_NAME=&quot;${appli_current_config_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_BINARY_NAME=&quot;${appli_full_binary_name}&quot;"/>
+</userDefines>
+<prebuild command="" description=""/>
+<postbuild command="" description=""/>
+<externalSchemes/>
+<userAsmIncs/>
+<userSystemLibraries/>
+<userSystemLibrariesOptions/>
+<userAsmDefines/>
+</config>
+<config applicationType="0x6e" asmCpuMode="thumb" binaryName="POS" compiler="gnuArm47v7a" cpuMode="thumb" crc="false" dataBinaryFileBaseName="DATA006E" defaultTeliumCompatibility="Telium Tetra" enableCPPExceptions="true" gcov="false" gnu4StackProtectionMode="ProPolice" gnuOptim="-O0" gprof="false" hardware="Telium Tetra" name="GNU_ARM_DEBUG_TETRA" projectFamily="POS" sign="false" signatureCertificate="PAYMENT" signatureCertificateProvider="Telium SDK" stackProtectorMode="-fstack-protector-all" stripEnable="true" stripOpt=" --remove-section=.comment " useDataFileNamingConvention="true" zip="false">
+<teliumCompatibilities>
+<teliumCompatibility value="Telium Tetra"/>
+</teliumCompatibilities>
+<userIncs>
+<userInc value="Inc"/>
+<userInc value="IncGen"/>
+</userIncs>
+<teliumSdkPackages>
+<teliumSdkPackage package="Telium SDK" version="11.16.8.PatchC"/>
+</teliumSdkPackages>
+<teliumPackageInfo countryCode="000" family="POS" identifier="110" maintenancePatch="00" majorVersion="00" minorRelease="00" range="00"/>
+<dataFiles>
+<dataFile alias="Resources" isDefault="true" name="Bin/Resources.tar" parentProject="">
+<targetTerminals/>
+</dataFile>
+</dataFiles>
+<userDefines>
+<userDefine value="_ING_TELIUM_SDK_LOC=&quot;${telium_sdk_loc}&quot;"/>
+<userDefine value="_ING_TELIUM_SDK_NAME=&quot;${telium_sdk_name}&quot;"/>
+<userDefine value="_ING_TELIUM_SDK_VERSION=&quot;${telium_sdk_version}&quot;"/>
+<userDefine value="_ING_APPLI_BINARY_NAME=&quot;${appli_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FAMILY=&quot;${appli_family}&quot;"/>
+<userDefine value="_ING_APPLI_TYPE=${appli_type}"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_FULL_BINARY_NAME=&quot;${appli_telium_tetra_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_COMPATIBILITY=&quot;${appli_telium_compatibility}&quot;"/>
+<userDefine value="_ING_APPLI_SIGN_MODE=&quot;${appli_sign_mode}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_BINARY_NAME=&quot;${appli_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_DATA_FILE_BINARY_NAME=&quot;${appli_full_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM_TETRA_BINARY_NAME=&quot;${appli_data_file_telium_tetra_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_NAME=&quot;${appli_telium_tetra_package_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_TYPE=&quot;${appli_telium_tetra_package_type}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_RANGE=&quot;${appli_telium_tetra_package_range}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_COUNTRY_CODE=&quot;${appli_telium_tetra_package_country_code}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_IDENTIFIER=&quot;${appli_telium_tetra_package_identifier}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_VERSION=&quot;${appli_telium_tetra_package_version}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_COMPONENT_NAME=&quot;${appli_telium_tetra_component_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_FAMILY=&quot;${appli_telium_tetra_package_family}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_ROOTNAME=&quot;${appli_telium_tetra_package_rootname}&quot;"/>
+<userDefine value="_ING_APPLI_CURRENT_CONFIG_NAME=&quot;${appli_current_config_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_BINARY_NAME=&quot;${appli_full_binary_name}&quot;"/>
+</userDefines>
+<userAsmIncs/>
+<userSystemLibraries/>
+<userSystemLibrariesOptions/>
+<userAsmDefines/>
+<prebuild command="" description=""/>
+<externalSchemes/>
+<postbuild command="" description=""/>
+</config>
+<config applicationType="0x6e" asmCpuMode="thumb" binaryName="POS" codeBaseAddr="0x00001000" compiler="gnuArm4" compilerCustomOpt="" cpuMode="thumb" crc="true" dataBaseAddr="0x00200000" dataBinaryFileBaseName="DATA006E" defaultTeliumCompatibility="Telium 2" enableCPPExceptions="true" gnu4StackProtectionMode="ProPolice" gnuOptim="-Os" hardware="Telium 2" linkerCustomOpt="" name="GNU_ARM_RELEASE_T2" projectFamily="POS" stackProtectorMode="-fstack-protector-all" useDataFileNamingConvention="true" zip="true">
+<teliumCompatibilities>
+<teliumCompatibility value="Telium 2"/>
+</teliumCompatibilities>
+<userIncs>
+<userInc value="Inc"/>
+<userInc value="IncGen"/>
+</userIncs>
+<teliumSdkPackages>
+<teliumSdkPackage package="Telium SDK" version="11.16.8.PatchC"/>
+</teliumSdkPackages>
+<dataFiles>
+<dataFile alias="Resources" isDefault="true" name="Bin/Resources.tar" parentProject="">
+<targetTerminals/>
+</dataFile>
+</dataFiles>
+<userDefines>
+<userDefine value="_ING_TELIUM_SDK_LOC=&quot;${telium_sdk_loc}&quot;"/>
+<userDefine value="_ING_TELIUM_SDK_NAME=&quot;${telium_sdk_name}&quot;"/>
+<userDefine value="_ING_TELIUM_SDK_VERSION=&quot;${telium_sdk_version}&quot;"/>
+<userDefine value="_ING_APPLI_BINARY_NAME=&quot;${appli_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FAMILY=&quot;${appli_family}&quot;"/>
+<userDefine value="_ING_APPLI_TYPE=${appli_type}"/>
+<userDefine value="_ING_APPLI_TELIUM1_FULL_BINARY_NAME=&quot;${appli_telium1_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM2_FULL_BINARY_NAME=&quot;${appli_telium2_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_COMPATIBILITY=&quot;${appli_telium_compatibility}&quot;"/>
+<userDefine value="_ING_APPLI_SIGN_MODE=&quot;${appli_sign_mode}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_BINARY_NAME=&quot;${appli_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_DATA_FILE_BINARY_NAME=&quot;${appli_full_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM1_BINARY_NAME=&quot;${appli_data_file_telium1_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM2_BINARY_NAME=&quot;${appli_data_file_telium2_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_CURRENT_CONFIG_NAME=&quot;${appli_current_config_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_BINARY_NAME=&quot;${appli_full_binary_name}&quot;"/>
+</userDefines>
+<prebuild/>
+<postbuild/>
+</config>
+<config applicationType="0x6e" asmCpuMode="thumb" binaryName="POS" compiler="gnuArm47v7a" cpuMode="thumb" crc="true" dataBinaryFileBaseName="DATA006E" defaultTeliumCompatibility="Telium Tetra" enableCPPExceptions="true" gcov="false" gnu4StackProtectionMode="ProPolice" gnuOptim="-Os" gprof="false" hardware="Telium Tetra" name="GNU_ARM_RELEASE_TETRA" projectFamily="POS" signatureCertificate="PAYMENT" signatureCertificateProvider="Telium SDK" stackProtectorMode="-fstack-protector-all" stripEnable="true" stripOpt=" --remove-section=.comment " useDataFileNamingConvention="true" zip="true">
+<teliumCompatibilities>
+<teliumCompatibility value="Telium Tetra"/>
+</teliumCompatibilities>
+<userIncs>
+<userInc value="Inc"/>
+<userInc value="IncGen"/>
+</userIncs>
+<teliumSdkPackages>
+<teliumSdkPackage package="Telium SDK" version="11.16.8.PatchC"/>
+</teliumSdkPackages>
+<teliumPackageInfo countryCode="000" family="POS" identifier="110" maintenancePatch="00" majorVersion="00" minorRelease="00" range="00"/>
+<dataFiles>
+<dataFile alias="Resources" isDefault="true" name="Bin/Resources.tar" parentProject="">
+<targetTerminals/>
+</dataFile>
+</dataFiles>
+<userDefines>
+<userDefine value="_ING_TELIUM_SDK_LOC=&quot;${telium_sdk_loc}&quot;"/>
+<userDefine value="_ING_TELIUM_SDK_NAME=&quot;${telium_sdk_name}&quot;"/>
+<userDefine value="_ING_TELIUM_SDK_VERSION=&quot;${telium_sdk_version}&quot;"/>
+<userDefine value="_ING_APPLI_BINARY_NAME=&quot;${appli_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FAMILY=&quot;${appli_family}&quot;"/>
+<userDefine value="_ING_APPLI_TYPE=${appli_type}"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_FULL_BINARY_NAME=&quot;${appli_telium_tetra_full_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_COMPATIBILITY=&quot;${appli_telium_compatibility}&quot;"/>
+<userDefine value="_ING_APPLI_SIGN_MODE=&quot;${appli_sign_mode}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_BINARY_NAME=&quot;${appli_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_DATA_FILE_BINARY_NAME=&quot;${appli_full_data_file_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_DATA_FILE_TELIUM_TETRA_BINARY_NAME=&quot;${appli_data_file_telium_tetra_binary_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_NAME=&quot;${appli_telium_tetra_package_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_TYPE=&quot;${appli_telium_tetra_package_type}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_RANGE=&quot;${appli_telium_tetra_package_range}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_COUNTRY_CODE=&quot;${appli_telium_tetra_package_country_code}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_IDENTIFIER=&quot;${appli_telium_tetra_package_identifier}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_VERSION=&quot;${appli_telium_tetra_package_version}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_COMPONENT_NAME=&quot;${appli_telium_tetra_component_name}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_FAMILY=&quot;${appli_telium_tetra_package_family}&quot;"/>
+<userDefine value="_ING_APPLI_TELIUM_TETRA_PACKAGE_ROOTNAME=&quot;${appli_telium_tetra_package_rootname}&quot;"/>
+<userDefine value="_ING_APPLI_CURRENT_CONFIG_NAME=&quot;${appli_current_config_name}&quot;"/>
+<userDefine value="_ING_APPLI_FULL_BINARY_NAME=&quot;${appli_full_binary_name}&quot;"/>
+</userDefines>
+<prebuild/>
+<postbuild/>
+</config>
+</configs>
+</projectDescription>

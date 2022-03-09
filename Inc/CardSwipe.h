@@ -1,0 +1,6 @@
+#ifndef CARDSWIPE_H_INCLUDED
+#define CARDSWIPE_H_INCLUDED
+
+
+
+#endif

@@ -1,0 +1,1303 @@
+Archive member included because of file (symbol)
+
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fclose.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (Telium_Fclose)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fopen.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (Telium_Fopen)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Ttestall.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (Telium_Ttestall)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Read_date.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (Telium_Read_date)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_ServiceRegister.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (Telium_ServiceRegister)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Pprintf.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (Telium_Pprintf)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdprt.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Pprintf.o) (Telium_Stdprt)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ApplicationGetCurrent.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Main.o (ApplicationGetCurrent)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_close.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (FS_close)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_length.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (FS_length)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_mount.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (FS_mount)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_open.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (FS_open)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_read.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (FS_read)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_unmount.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (FS_unmount)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ObjectGetInfo.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (ObjectGetInfo)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(first_init.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (first_init)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(raz_init.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (raz_init)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayFooter.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Menu.o (DisplayFooter)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayHeader.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Menu.o (DisplayHeader)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayLeds.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Menu.o (DisplayLeds)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Exit.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fclose.o) (Telium_Exit)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(emulationtp1.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayFooter.o) (emulationlib_open)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extenstp1.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fclose.o) (extenslib_open)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdperif.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdprt.o) (Telium_Stdperif)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extensttrois9.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Pprintf.o) (Telium_Vfprintf)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(toolstp1.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Read_date.o) (toolslib_open)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(wrappertp1.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ApplicationGetCurrent.o) (wrapperlib_open)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Close.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(emulationtp1.o) (OSL_Dll_Close)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_GetSymbolByName.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(emulationtp1.o) (OSL_Dll_GetSymbolByName)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_OpenByAppliType.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(emulationtp1.o) (OSL_Dll_OpenByAppliType)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(GCCLink.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Close.o) (OSL_InitFuncAndBranch)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_link.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(GCCLink.o) (OSL_GetProcAddress)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Menu.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Menu.o (GL_Dialog_Menu)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Message.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (GL_Dialog_Message)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_Create.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (GL_GraphicLib_Create)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_ReadResource.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o (GL_GraphicLib_ReadResource)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Label_Create.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (GL_Label_Create)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Message_GetWindow.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o (GL_Message_GetWindow)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Message_SetResult.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o (GL_Message_SetResult)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_Destroy.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (GL_Widget_Destroy)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_GetText.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o (GL_Widget_GetText)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_RegisterCallback.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o (GL_Widget_RegisterCallback)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SearchId.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o (GL_Widget_SearchId)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetBackAlign.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (GL_Widget_SetBackAlign)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetFontScale.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (GL_Widget_SetFontScale)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetText.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (GL_Widget_SetText)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_Create.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (GL_Window_Create)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_Dispatch.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/Entry.o (GL_Window_Dispatch)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_GetResult.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o (GL_Window_GetResult)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_MainLoop.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o (GL_Window_MainLoop)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_PreviousFocus.o)
+                              Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o (GL_Window_PreviousFocus)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_link.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_Create.o) (GL_GetProcAddressWithoutExit)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(gl_asm_link.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Menu.o) (GL_InitFuncAndBranch)
+C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+                              C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o (__libc_csu_init)
+C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(stat.oS)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_link.o) (stat)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_IsPresent.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_link.o) (OSL_Dll_IsPresent)
+C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Open.o)
+                              C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_link.o) (OSL_Dll_Open)
+
+Allocating common symbols
+Common symbol       size              file
+
+sSavedStatusHeader  0x4               Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+sSavedStatusLeds    0x4               Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+sSavedStatusFooter  0x4               Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/startup_tplusentry.o
+ .note.GNU-stack
+                0x00000000        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .note.GNU-stack
+                0x00000000        0x0 Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+ .note.GNU-stack
+                0x00000000        0x0 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+ .note.GNU-stack
+                0x00000000        0x0 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+ .note.GNU-stack
+                0x00000000        0x0 Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+ .note.GNU-stack
+                0x00000000        0x0 Obj/GNU_ARM_DEBUG_TETRA/MenuManager.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fclose.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fopen.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Ttestall.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Read_date.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_ServiceRegister.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Pprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdprt.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ApplicationGetCurrent.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_close.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_length.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_mount.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_open.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_read.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_unmount.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ObjectGetInfo.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(first_init.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(raz_init.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayFooter.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayHeader.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayLeds.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Exit.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(emulationtp1.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extenstp1.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdperif.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extensttrois9.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(toolstp1.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(wrappertp1.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Close.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_GetSymbolByName.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_OpenByAppliType.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(GCCLink.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_link.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Menu.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Message.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_Create.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_ReadResource.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Label_Create.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Message_GetWindow.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Message_SetResult.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_Destroy.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_GetText.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_RegisterCallback.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SearchId.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetBackAlign.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetFontScale.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetText.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_Create.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_Dispatch.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_GetResult.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_MainLoop.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_PreviousFocus.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_link.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(gl_asm_link.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(stat.oS)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_IsPresent.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Open.o)
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/startup_tplusentry.o
+LOAD Obj/GNU_ARM_DEBUG_TETRA/Main.o
+LOAD Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+LOAD Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+LOAD Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+LOAD Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+LOAD Obj/GNU_ARM_DEBUG_TETRA/MenuManager.o
+START GROUP
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libSecurityTp.lib
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libbluetooth.lib
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwifi.lib
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libpackip.lib
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libTmsCall_TPlus.lib
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/SPMCI_TPlus.lib
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/ExtraGPRS.lib
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libndef.lib
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/TlvTree.lib
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/LIBTPLUSMANAGER.LIB
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/LIBPROTOBUF.T3L
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/LIBOS.T3L
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/liblinklayer.lib
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/SQLITELIB.a
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/LIBSERVICE.T3L
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/LIBSVCDIRPX.T3L
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/LIBSVCDIRSK.T3L
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/LIBGRAPHICS.T3L
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libSec.a
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libtpass.a
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libgtl.a
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libmifare.a
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/OS/libtelinux.so
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc.so
+START GROUP
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/lib/libc.so.6
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/lib/ld-linux.so.3
+END GROUP
+START GROUP
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/lib/libc.so.6
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/lib/ld-linux.so.3
+END GROUP
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3\libgcc.a
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/lib/libgcc_s.so
+START GROUP
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/lib\libgcc_s.so.1
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3\libgcc.a
+END GROUP
+START GROUP
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/lib\libgcc_s.so.1
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3\libgcc.a
+END GROUP
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/lib/libstdc++.so
+END GROUP
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+LOAD C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+LOAD C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+                0x00008000                PROVIDE (__executable_start, 0x8000)
+                0x00008134                . = (0x8000 + SIZEOF_HEADERS)
+
+.interp         0x00008134       0x13
+ *(.interp)
+ .interp        0x00008134       0x13 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.note.ABI-tag   0x00008148       0x20
+ .note.ABI-tag  0x00008148       0x20 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00008168      0x160
+ *(.hash)
+ .hash          0x00008168      0x160 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x000082c8      0x310
+ *(.dynsym)
+ .dynsym        0x000082c8      0x310 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.dynstr         0x000085d8      0x2b1
+ *(.dynstr)
+ .dynstr        0x000085d8      0x2b1 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.gnu.version    0x0000888a       0x62
+ *(.gnu.version)
+ .gnu.version   0x0000888a       0x62 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.gnu.version_d  0x000088ec        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.gnu.version_r  0x000088ec       0x70
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x000088ec       0x70 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.rel.dyn        0x0000895c       0x20
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x0000895c       0x18 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ .rel.bss       0x00008974        0x8 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x0000897c                PROVIDE (__rel_iplt_start, .)
+ *(.rel.iplt)
+                0x0000897c                PROVIDE (__rel_iplt_end, .)
+                0x0000897c                PROVIDE (__rela_iplt_start, .)
+                0x0000897c                PROVIDE (__rela_iplt_end, .)
+
+.rela.dyn       0x0000897c        0x0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+                0x0000897c                PROVIDE (__rel_iplt_start, .)
+                0x0000897c                PROVIDE (__rel_iplt_end, .)
+                0x0000897c                PROVIDE (__rela_iplt_start, .)
+ *(.rela.iplt)
+                0x0000897c                PROVIDE (__rela_iplt_end, .)
+
+.rel.plt        0x0000897c      0x110
+ *(.rel.plt)
+ .rel.plt       0x0000897c      0x110 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x00008a8c        0xc
+ *(.init)
+ .init          0x00008a8c        0x8 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x00008a8c                _init
+ .init          0x00008a94        0x4 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+
+.plt            0x00008a98      0x1b8
+ *(.plt)
+ .plt           0x00008a98      0x1b8 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x00008aac                abort@@GLIBC_2.4
+                0x00008ab8                __xstat@@GLIBC_2.4
+                0x00008ac4                __libc_start_main@@GLIBC_2.4
+                0x00008ad4                Stapp_LegacyUninstall
+                0x00008aec                strncpy@@GLIBC_2.4
+                0x00008af8                getenv@@GLIBC_2.4
+                0x00008b04                strchr@@GLIBC_2.4
+                0x00008b10                memset@@GLIBC_2.4
+                0x00008b1c                perror@@GLIBC_2.4
+                0x00008b28                dlopen@@GLIBC_2.4
+                0x00008b34                Sap_trace_debug
+                0x00008b40                access@@GLIBC_2.4
+                0x00008b4c                Odm_AppGetCurrentAppliIdentifier
+                0x00008b58                Odm_AppGetAppliTypeFromAppId
+                0x00008b64                memcpy@@GLIBC_2.4
+                0x00008b70                strcpy@@GLIBC_2.4
+                0x00008b7c                iniparser_getint
+                0x00008b8c                Stapp_LegacyInstall
+                0x00008b98                atoi@@GLIBC_2.4
+                0x00008ba4                iniparser_freedict
+                0x00008bb0                Sys_GetMode
+                0x00008bbc                pause@@GLIBC_2.4
+                0x00008bc8                iniparser_load
+                0x00008bd4                COREDBG_StackOverFlowSet
+                0x00008be0                getpid@@GLIBC_2.4
+                0x00008bec                Oem_upload_diagnostic_txt
+                0x00008bf8                snprintf@@GLIBC_2.4
+                0x00008c08                kill@@GLIBC_2.4
+                0x00008c14                exit@@GLIBC_2.4
+                0x00008c20                __errno_location@@GLIBC_2.4
+                0x00008c2c                Stapp_LegacyInstall_end
+                0x00008c38                dlsym@@GLIBC_2.4
+                0x00008c44                sprintf@@GLIBC_2.4
+
+.iplt
+ *(.iplt)
+
+.text           0x00008c50     0x2cbc
+ *(.text.unlikely .text.*_unlikely)
+ *(.text.exit .text.exit.*)
+ .text.exit     0x00008c50      0x104 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+                0x00008c50                telinux_after_main_last
+                0x00008c8c                telinux_gmon_dump_prepare
+ *(.text.startup .text.startup.*)
+ .text.startup  0x00008d54       0x14 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/startup_tplusentry.o
+                0x00008d54                main
+                0x00008d64                telinux_before_main_first
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00008d68       0x24 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .text          0x00008d8c       0x3c C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+                0x00008d8c                _start
+ .text          0x00008dc8       0xd8 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .text          0x00008ea0       0x14 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/startup_tplusentry.o
+                0x00008ea0                __stack_chk_fail
+ .text          0x00008eb4      0x300 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                0x00008eb4                Main
+ .text          0x000091b4     0x117c Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+                0x000091b4                give_your_domain
+                0x00009220                after_reset
+                0x0000927c                is_name
+                0x0000931c                is_state
+                0x0000937c                idle_message
+                0x00009440                more_function
+                0x00009480                keyboard_event
+                0x00009578                state
+                0x00009668                consult
+                0x00009724                mcall
+                0x000097e0                is_time_function
+                0x00009840                time_function
+                0x000098c8                is_change_init
+                0x0000996c                modif_param
+                0x00009a0c                is_evol_pg
+                0x00009a6c                is_delete
+                0x00009aac                file_received
+                0x00009c50                message_received
+                0x00009d0c                is_card_specific
+                0x00009d6c                card_inside
+                0x00009dbc                is_for_you_after
+                0x00009f5c                debit_non_emv
+                0x0000a0d4                give_your_specific_context
+                0x0000a1f0                give_interface
+                0x0000a264                entry
+ .text          0x0000a330      0x200 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+                0x0000a330                menuGoalDisplay
+                0x0000a3c4                initUIContext
+                0x0000a47c                releaseUIContext
+ .text          0x0000a530      0x3b8 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+                0x0000a530                dateScreenUseGoalResource
+ .text          0x0000a8e8       0xd8 Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+                0x0000a8e8                utilsCheckDate
+ .text          0x0000a9c0        0x0 Obj/GNU_ARM_DEBUG_TETRA/MenuManager.o
+ .text          0x0000a9c0       0x64 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fclose.o)
+                0x0000a9d0                Telium_Fclose
+ .text          0x0000aa24       0x64 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fopen.o)
+                0x0000aa34                Telium_Fopen
+ .text          0x0000aa88       0x64 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Ttestall.o)
+                0x0000aa98                Telium_Ttestall
+ .text          0x0000aaec       0x60 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Read_date.o)
+                0x0000ab00                Telium_Read_date
+ .text          0x0000ab4c       0x64 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_ServiceRegister.o)
+                0x0000ab64                Telium_ServiceRegister
+ .text          0x0000abb0       0x2e C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Pprintf.o)
+                0x0000abb0                Telium_Pprintf
+ *fill*         0x0000abde        0x2 00000000
+ .text          0x0000abe0       0x20 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdprt.o)
+                0x0000abe8                Telium_Stdprt
+ .text          0x0000ac00       0x64 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ApplicationGetCurrent.o)
+                0x0000ac18                ApplicationGetCurrent
+ .text          0x0000ac64       0x58 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_close.o)
+                0x0000ac70                FS_close
+ .text          0x0000acbc       0x58 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_length.o)
+                0x0000acc8                FS_length
+ .text          0x0000ad14       0x58 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_mount.o)
+                0x0000ad20                FS_mount
+ .text          0x0000ad6c       0x54 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_open.o)
+                0x0000ad74                FS_open
+ .text          0x0000adc0       0x54 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_read.o)
+                0x0000adc8                FS_read
+ .text          0x0000ae14       0x58 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_unmount.o)
+                0x0000ae20                FS_unmount
+ .text          0x0000ae6c       0x5c C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ObjectGetInfo.o)
+                0x0000ae7c                ObjectGetInfo
+ .text          0x0000aec8       0x58 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(first_init.o)
+                0x0000aed4                first_init
+ .text          0x0000af20       0x58 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(raz_init.o)
+                0x0000af2c                raz_init
+ .text          0x0000af78       0x60 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayFooter.o)
+                0x0000af8c                DisplayFooter
+ .text          0x0000afd8       0x60 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayHeader.o)
+                0x0000afec                DisplayHeader
+ .text          0x0000b038       0x5c C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayLeds.o)
+                0x0000b048                DisplayLeds
+ .text          0x0000b094       0x5c C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Exit.o)
+                0x0000b0a4                Telium_Exit
+ .text          0x0000b0f0       0x70 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(emulationtp1.o)
+                0x0000b0f0                GetProcAddressEmulation
+                0x0000b110                emulationlib_open
+                0x0000b148                emulationlib_close
+ .text          0x0000b160       0x7c C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extenstp1.o)
+                0x0000b160                GetProcAddressExtens
+                0x0000b180                extenslib_open
+                0x0000b1c4                extenslib_close
+ .text          0x0000b1dc       0x64 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdperif.o)
+                0x0000b1ec                Telium_Stdperif
+ .text          0x0000b240       0x50 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extensttrois9.o)
+                0x0000b240                Telium_Vfprintf
+ .text          0x0000b290       0x7c C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(toolstp1.o)
+                0x0000b290                GetProcAddressTools
+                0x0000b2b0                toolslib_open
+                0x0000b2f4                toolslib_close
+ .text          0x0000b30c       0x70 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(wrappertp1.o)
+                0x0000b30c                GetProcAddressWrapper
+                0x0000b32c                wrapperlib_open
+                0x0000b364                wrapperlib_close
+ .text          0x0000b37c       0x20 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Close.o)
+                0x0000b386                OSL_Dll_Close
+ .text          0x0000b39c       0x20 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_GetSymbolByName.o)
+                0x0000b3a6                OSL_Dll_GetSymbolByName
+ .text          0x0000b3bc       0x20 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_OpenByAppliType.o)
+                0x0000b3c6                OSL_Dll_OpenByAppliType
+ .text          0x0000b3dc       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(GCCLink.o)
+                0x0000b3dc                OSL_InitFuncAndBranch
+ .text          0x0000b3ec       0xa8 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_link.o)
+                0x0000b3ec                OSL_GetProcAddress
+                0x0000b468                OSL_IsPresent
+ .text          0x0000b494       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Menu.o)
+                0x0000b4a0                GL_Dialog_Menu
+ .text          0x0000b4b8       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Message.o)
+                0x0000b4c4                GL_Dialog_Message
+ .text          0x0000b4dc       0x80 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_Create.o)
+                0x0000b4dc                GL_GraphicLib_Create
+                0x0000b53c                GL_GraphicLib_Create_Init
+ .text          0x0000b55c       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_ReadResource.o)
+                0x0000b568                GL_GraphicLib_ReadResource
+ .text          0x0000b580       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Label_Create.o)
+                0x0000b58c                GL_Label_Create
+ .text          0x0000b5a4       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Message_GetWindow.o)
+                0x0000b5b0                GL_Message_GetWindow
+ .text          0x0000b5c8       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Message_SetResult.o)
+                0x0000b5d4                GL_Message_SetResult
+ .text          0x0000b5ec       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_Destroy.o)
+                0x0000b5f8                GL_Widget_Destroy
+ .text          0x0000b610       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_GetText.o)
+                0x0000b61c                GL_Widget_GetText
+ .text          0x0000b634       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_RegisterCallback.o)
+                0x0000b640                GL_Widget_RegisterCallback
+ .text          0x0000b658       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SearchId.o)
+                0x0000b664                GL_Widget_SearchId
+ .text          0x0000b67c       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetBackAlign.o)
+                0x0000b688                GL_Widget_SetBackAlign
+ .text          0x0000b6a0       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetFontScale.o)
+                0x0000b6ac                GL_Widget_SetFontScale
+ .text          0x0000b6c4       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetText.o)
+                0x0000b6d0                GL_Widget_SetText
+ .text          0x0000b6e8       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_Create.o)
+                0x0000b6f4                GL_Window_Create
+ .text          0x0000b70c       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_Dispatch.o)
+                0x0000b718                GL_Window_Dispatch
+ .text          0x0000b730       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_GetResult.o)
+                0x0000b73c                GL_Window_GetResult
+ .text          0x0000b754       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_MainLoop.o)
+                0x0000b760                GL_Window_MainLoop
+ .text          0x0000b778       0x24 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_PreviousFocus.o)
+                0x0000b784                GL_Window_PreviousFocus
+ .text          0x0000b79c       0x8c C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_link.o)
+                0x0000b79c                GL_GetProcAddressWithoutExit
+                0x0000b7fc                GL_GetProcAddress
+                0x0000b818                GL_IsPresent
+ .text          0x0000b828       0x2c C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(gl_asm_link.o)
+                0x0000b828                GL_InitFuncAndBranch
+                0x0000b838                GL_Swi_ObjectLoad
+                0x0000b846                GL_Swi_DllLink
+ .text          0x0000b854       0x68 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+                0x0000b854                __libc_csu_init
+                0x0000b8b8                __libc_csu_fini
+ .text          0x0000b8bc       0x10 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(stat.oS)
+                0x0000b8bc                stat
+                0x0000b8bc                __stat
+ .text          0x0000b8cc       0x20 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_IsPresent.o)
+                0x0000b8d6                OSL_Dll_IsPresent
+ .text          0x0000b8ec       0x20 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Open.o)
+                0x0000b8f6                OSL_Dll_Open
+ .text          0x0000b90c        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .text          0x0000b90c        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .text          0x0000b90c        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini           0x0000b90c        0x8
+ *(.fini)
+ .fini          0x0000b90c        0x4 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x0000b90c                _fini
+ .fini          0x0000b910        0x4 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+                0x0000b914                PROVIDE (__etext, .)
+                0x0000b914                PROVIDE (_etext, .)
+                0x0000b914                PROVIDE (etext, .)
+
+.rodata         0x0000b914      0x55c
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x0000b914        0x4 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+                0x0000b914                _IO_stdin_used
+ .rodata        0x0000b918      0x2cc Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+ .rodata        0x0000bbe4       0x64 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+ .rodata        0x0000bc48       0xa4 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+                0x0000bc48                DATESCREEN_OK_STATUS
+                0x0000bc4c                DATESCREEN_CANCEL_STATUS
+ .rodata.str1.1
+                0x0000bcec        0x8 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extenstp1.o)
+ .rodata.str1.1
+                0x0000bcf4       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extensttrois9.o)
+ .rodata.str1.1
+                0x00000000        0x8 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(toolstp1.o)
+ .rodata.str1.1
+                0x0000bd04       0x60 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_link.o)
+ .rodata.str1.1
+                0x0000bd64       0x6a C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_link.o)
+ *fill*         0x0000bdce        0x2 00
+ .rodata        0x0000bdd0       0x18 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ .rodata.str1.4
+                0x0000bde8       0x88 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+                                 0x86 (size before relaxing)
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x0000be70        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000be70        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+                0x0000be70                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x0000be70        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000be70        0x8 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+                0x0000be78                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000be78        0x4
+ *(.eh_frame)
+ .eh_frame      0x0000be78        0x4 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x0000be7c                . = (ALIGN (0x8000) - ((0x8000 - .) & 0x7fff))
+                0x00014000                . = DATA_SEGMENT_ALIGN (0x8000, 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x00014000        0x0
+                0x00014000                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x00014000                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x00014000        0x8
+                0x00014000                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00101
+                0x00014000        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/startup_tplusentry.o
+ *(.init_array)
+ .init_array    0x00014004        0x4 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+                0x00014008                PROVIDE (__init_array_end, .)
+
+.fini_array     0x00014008        0xc
+                0x00014008                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ .fini_array.00101
+                0x00014008        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ .fini_array.00201
+                0x0001400c        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ *(.fini_array)
+ .fini_array    0x00014010        0x4 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+                0x00014014                PROVIDE (__fini_array_end, .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr            0x00014014        0x4
+ *(.jcr)
+ .jcr           0x00014014        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .jcr           0x00014014        0x4 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00014018      0x100
+ *(.dynamic)
+ .dynamic       0x00014018      0x100 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x00014018                _DYNAMIC
+                0x00014118                . = DATA_SEGMENT_RELRO_END (., 0x0)
+
+.got            0x00014118       0xd4
+ *(.got.plt)
+ .got.plt       0x00014118       0x94 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x00014118                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ *(.got)
+ .got           0x000141ac       0x40 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ *(.igot)
+
+.data           0x000141f0      0x2a8
+                0x000141f0                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x000141f0        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .data          0x000141f0        0x4 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+                0x000141f0                __data_start
+                0x000141f0                data_start
+ .data          0x000141f4        0x4 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+                0x000141f4                __dso_handle
+ .data          0x000141f8        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/startup_tplusentry.o
+ .data          0x000141f8        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .data          0x000141f8      0x108 Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+ .data          0x00014300        0x0 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+ .data          0x00014300        0x0 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+ .data          0x00014300        0x0 Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+ .data          0x00014300        0x0 Obj/GNU_ARM_DEBUG_TETRA/MenuManager.o
+ .data          0x00014300        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fclose.o)
+ .data          0x00014304        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fopen.o)
+ .data          0x00014308        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Ttestall.o)
+ .data          0x0001430c        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Read_date.o)
+ .data          0x00014310        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_ServiceRegister.o)
+ .data          0x00014314        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Pprintf.o)
+ .data          0x00014314        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdprt.o)
+ .data          0x00014314        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ApplicationGetCurrent.o)
+ .data          0x00014318        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_close.o)
+ .data          0x0001431c        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_length.o)
+ .data          0x00014320        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_mount.o)
+ .data          0x00014324        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_open.o)
+ .data          0x00014328        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_read.o)
+ .data          0x0001432c        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_unmount.o)
+ .data          0x00014330        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ObjectGetInfo.o)
+ .data          0x00014334        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(first_init.o)
+ .data          0x00014338        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(raz_init.o)
+ .data          0x0001433c        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayFooter.o)
+ .data          0x00014340        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayHeader.o)
+ .data          0x00014344        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayLeds.o)
+ .data          0x00014348        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Exit.o)
+ .data          0x0001434c        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(emulationtp1.o)
+ .data          0x0001434c        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extenstp1.o)
+ .data          0x0001434c        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdperif.o)
+ .data          0x00014350        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extensttrois9.o)
+ .data          0x00014350        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(toolstp1.o)
+ .data          0x00014350        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(wrappertp1.o)
+ .data          0x00014350        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Close.o)
+ .data          0x00014354        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_GetSymbolByName.o)
+ .data          0x00014358        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_OpenByAppliType.o)
+ .data          0x0001435c        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(GCCLink.o)
+ .data          0x0001435c        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_link.o)
+ *fill*         0x0001435c        0x4 00
+ .data          0x00014360       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Menu.o)
+ .data          0x00014370       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Message.o)
+ .data          0x00014380        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_Create.o)
+ .data.rel      0x00014380        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_Create.o)
+ *fill*         0x00014384        0xc 00
+ .data          0x00014390       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_ReadResource.o)
+ .data          0x000143a0       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Label_Create.o)
+ .data          0x000143b0       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Message_GetWindow.o)
+ .data          0x000143c0       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Message_SetResult.o)
+ .data          0x000143d0       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_Destroy.o)
+ .data          0x000143e0       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_GetText.o)
+ .data          0x000143f0       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_RegisterCallback.o)
+ .data          0x00014400       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SearchId.o)
+ .data          0x00014410       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetBackAlign.o)
+ .data          0x00014420       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetFontScale.o)
+ .data          0x00014430       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetText.o)
+ .data          0x00014440       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_Create.o)
+ .data          0x00014450       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_Dispatch.o)
+ .data          0x00014460       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_GetResult.o)
+ .data          0x00014470       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_MainLoop.o)
+ .data          0x00014480       0x10 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_PreviousFocus.o)
+ .data          0x00014490        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_link.o)
+ .data          0x00014490        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(gl_asm_link.o)
+ .data          0x00014490        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .data          0x00014490        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(stat.oS)
+ .data          0x00014490        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_IsPresent.o)
+ .data          0x00014494        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Open.o)
+ .data          0x00014498        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .data          0x00014498        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .data          0x00014498        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+.tm_clone_table
+                0x00014498        0x0
+ .tm_clone_table
+                0x00014498        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .tm_clone_table
+                0x00014498        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+
+.data1
+ *(.data1)
+                0x00014498                _edata = .
+                0x00014498                PROVIDE (edata, .)
+                0x00014498                __bss_start = .
+                0x00014498                __bss_start__ = .
+
+.bss            0x00014498       0x84
+ *(.dynbss)
+ .dynbss        0x00014498        0x4 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                0x00014498                __stack_chk_guard@@GLIBC_2.4
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0001449c        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .bss           0x0001449c        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .bss           0x0001449c        0x1 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .bss           0x0001449d        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/startup_tplusentry.o
+ .bss           0x0001449d        0x0 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ *fill*         0x0001449d        0x3 00
+ .bss           0x000144a0       0x34 Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+                0x000144a0                gGoalGraphicLibInstance
+ .bss           0x000144d4        0x8 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+ .bss           0x000144dc        0x0 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+ .bss           0x000144dc        0x0 Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+ .bss           0x000144dc        0x0 Obj/GNU_ARM_DEBUG_TETRA/MenuManager.o
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fclose.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fopen.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Ttestall.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Read_date.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_ServiceRegister.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Pprintf.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdprt.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ApplicationGetCurrent.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_close.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_length.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_mount.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_open.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_read.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_unmount.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ObjectGetInfo.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(first_init.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(raz_init.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayFooter.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayHeader.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayLeds.o)
+ .bss           0x000144dc        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Exit.o)
+ .bss           0x000144dc        0x8 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(emulationtp1.o)
+                0x000144dc                emulation_Dll
+                0x000144e0                DllGetProcAddressEmul
+ .bss           0x000144e4        0x8 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extenstp1.o)
+                0x000144e4                extens_Dll
+                0x000144e8                DllGetProcAddress3
+ .bss           0x000144ec        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdperif.o)
+ .bss           0x000144ec        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extensttrois9.o)
+ .bss           0x000144f0        0x8 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(toolstp1.o)
+                0x000144f0                DllGetProcAddressTools
+                0x000144f4                toolsDll
+ .bss           0x000144f8        0x8 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(wrappertp1.o)
+                0x000144f8                wrapper_Dll
+                0x000144fc                DllGetProcAddress55
+ .bss           0x00014500        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Close.o)
+ .bss           0x00014500        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_GetSymbolByName.o)
+ .bss           0x00014500        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_OpenByAppliType.o)
+ .bss           0x00014500        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(GCCLink.o)
+ .bss           0x00014500        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_link.o)
+ .bss           0x00014504        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Menu.o)
+ .bss           0x00014504        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Message.o)
+ .bss           0x00014504        0x4 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_Create.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_ReadResource.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Label_Create.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Message_GetWindow.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Message_SetResult.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_Destroy.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_GetText.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_RegisterCallback.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SearchId.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetBackAlign.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetFontScale.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetText.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_Create.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_Dispatch.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_GetResult.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_MainLoop.o)
+ .bss           0x00014508        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_PreviousFocus.o)
+ .bss           0x00014508        0x8 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_link.o)
+ .bss           0x00014510        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(gl_asm_link.o)
+ .bss           0x00014510        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .bss           0x00014510        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(stat.oS)
+ .bss           0x00014510        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_IsPresent.o)
+ .bss           0x00014510        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Open.o)
+ .bss           0x00014510        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .bss           0x00014510        0x0 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .bss           0x00014510        0x0 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+ *(COMMON)
+ COMMON         0x00014510        0xc Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+                0x00014510                sSavedStatusHeader
+                0x00014514                sSavedStatusLeds
+                0x00014518                sSavedStatusFooter
+                0x0001451c                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x0001451c                _bss_end__ = .
+                0x0001451c                __bss_end__ = .
+                0x0001451c                . = ALIGN (0x4)
+                0x0001451c                . = ALIGN (0x4)
+                0x0001451c                __end__ = .
+                0x0001451c                _end = .
+                0x0001451c                PROVIDE (end, .)
+                0x0001451c                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x86
+ *(.comment)
+ .comment       0x00000000       0x37 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+                                 0x38 (size before relaxing)
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .comment       0x00000037       0x4f C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/startup_tplusentry.o
+                                 0x50 (size before relaxing)
+ .comment       0x00000000       0x38 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .comment       0x00000000       0x38 Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+ .comment       0x00000000       0x38 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+ .comment       0x00000000       0x38 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+ .comment       0x00000000       0x38 Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+ .comment       0x00000000       0x38 Obj/GNU_ARM_DEBUG_TETRA/MenuManager.o
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Pprintf.o)
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(emulationtp1.o)
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extenstp1.o)
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extensttrois9.o)
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(toolstp1.o)
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(wrappertp1.o)
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_link.o)
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_Create.o)
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_link.o)
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(stat.oS)
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .comment       0x00000000       0x38 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .comment       0x00000000       0x50 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+.ARM.attributes
+                0x00000000       0x41
+ .ARM.attributes
+                0x00000000       0x43 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crti.o
+ .ARM.attributes
+                0x00000043       0x3d C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crt1.o
+ .ARM.attributes
+                0x00000080       0x43 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtbegin.o
+ .ARM.attributes
+                0x000000c3       0x3d C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/startup_tplusentry.o
+ .ARM.attributes
+                0x00000100       0x39 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .ARM.attributes
+                0x00000139       0x39 Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+ .ARM.attributes
+                0x00000172       0x39 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+ .ARM.attributes
+                0x000001ab       0x39 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+ .ARM.attributes
+                0x000001e4       0x39 Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+ .ARM.attributes
+                0x0000021d       0x39 Obj/GNU_ARM_DEBUG_TETRA/MenuManager.o
+ .ARM.attributes
+                0x00000256       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fclose.o)
+ .ARM.attributes
+                0x00000279       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Fopen.o)
+ .ARM.attributes
+                0x0000029c       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Ttestall.o)
+ .ARM.attributes
+                0x000002bf       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Read_date.o)
+ .ARM.attributes
+                0x000002e2       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_ServiceRegister.o)
+ .ARM.attributes
+                0x00000305       0x39 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Pprintf.o)
+ .ARM.attributes
+                0x0000033e       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdprt.o)
+ .ARM.attributes
+                0x00000361       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ApplicationGetCurrent.o)
+ .ARM.attributes
+                0x00000384       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_close.o)
+ .ARM.attributes
+                0x000003a7       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_length.o)
+ .ARM.attributes
+                0x000003ca       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_mount.o)
+ .ARM.attributes
+                0x000003ed       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_open.o)
+ .ARM.attributes
+                0x00000410       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_read.o)
+ .ARM.attributes
+                0x00000433       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(FS_unmount.o)
+ .ARM.attributes
+                0x00000456       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(ObjectGetInfo.o)
+ .ARM.attributes
+                0x00000479       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(first_init.o)
+ .ARM.attributes
+                0x0000049c       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(raz_init.o)
+ .ARM.attributes
+                0x000004bf       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayFooter.o)
+ .ARM.attributes
+                0x000004e2       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayHeader.o)
+ .ARM.attributes
+                0x00000505       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(DisplayLeds.o)
+ .ARM.attributes
+                0x00000528       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Exit.o)
+ .ARM.attributes
+                0x0000054b       0x39 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(emulationtp1.o)
+ .ARM.attributes
+                0x00000584       0x39 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extenstp1.o)
+ .ARM.attributes
+                0x000005bd       0x23 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(Telium_Stdperif.o)
+ .ARM.attributes
+                0x000005e0       0x39 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(extensttrois9.o)
+ .ARM.attributes
+                0x00000619       0x39 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(toolstp1.o)
+ .ARM.attributes
+                0x00000652       0x39 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform/libwrapper_tplus.lib(wrappertp1.o)
+ .ARM.attributes
+                0x0000068b       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Close.o)
+ .ARM.attributes
+                0x000006b4       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_GetSymbolByName.o)
+ .ARM.attributes
+                0x000006dd       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_OpenByAppliType.o)
+ .ARM.attributes
+                0x00000706       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(GCCLink.o)
+ .ARM.attributes
+                0x0000072f       0x43 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_link.o)
+ .ARM.attributes
+                0x00000772       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Menu.o)
+ .ARM.attributes
+                0x0000079b       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Dialog_Message.o)
+ .ARM.attributes
+                0x000007c4       0x43 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_Create.o)
+ .ARM.attributes
+                0x00000807       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_GraphicLib_ReadResource.o)
+ .ARM.attributes
+                0x00000830       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Label_Create.o)
+ .ARM.attributes
+                0x00000859       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Message_GetWindow.o)
+ .ARM.attributes
+                0x00000882       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Message_SetResult.o)
+ .ARM.attributes
+                0x000008ab       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_Destroy.o)
+ .ARM.attributes
+                0x000008d4       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_GetText.o)
+ .ARM.attributes
+                0x000008fd       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_RegisterCallback.o)
+ .ARM.attributes
+                0x00000926       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SearchId.o)
+ .ARM.attributes
+                0x0000094f       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetBackAlign.o)
+ .ARM.attributes
+                0x00000978       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetFontScale.o)
+ .ARM.attributes
+                0x000009a1       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Widget_SetText.o)
+ .ARM.attributes
+                0x000009ca       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_Create.o)
+ .ARM.attributes
+                0x000009f3       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_Dispatch.o)
+ .ARM.attributes
+                0x00000a1c       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_GetResult.o)
+ .ARM.attributes
+                0x00000a45       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_MainLoop.o)
+ .ARM.attributes
+                0x00000a6e       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_Window_PreviousFocus.o)
+ .ARM.attributes
+                0x00000a97       0x43 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(GL_link.o)
+ .ARM.attributes
+                0x00000ada       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libGRAPHICLIB.a(gl_asm_link.o)
+ .ARM.attributes
+                0x00000b03       0x43 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(elf-init.oS)
+ .ARM.attributes
+                0x00000b46       0x43 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/libc_nonshared.a(stat.oS)
+ .ARM.attributes
+                0x00000b89       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_IsPresent.o)
+ .ARM.attributes
+                0x00000bb2       0x29 C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/lib/Platform\libOSLAYER.a(OSL_Dll_Open.o)
+ .ARM.attributes
+                0x00000bdb       0x43 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/lib/gcc/arm-islero-linux-gnueabi/4.7.3/crtend.o
+ .ARM.attributes
+                0x00000c1e       0x43 C:/Users/Student 11/POS/POS/IngeDev_8.18.0.5/toolchains/gnuArm47v7a-4/arm-islero-linux-gnueabi/sysroot/usr/lib/crtn.o
+ .ARM.attributes
+                0x00000c61       0x3d C:/Users/Student 11/POS/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_TETRA/gnu_473/startfiles/stapp_legacyexitpoint.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xa0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .debug_aranges
+                0x00000020       0x20 Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+ .debug_aranges
+                0x00000040       0x20 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+ .debug_aranges
+                0x00000060       0x20 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+ .debug_aranges
+                0x00000080       0x20 Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x47ee
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x272f Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .debug_info    0x0000272f     0x1938 Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+ .debug_info    0x00004067      0x217 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+ .debug_info    0x0000427e      0x4c4 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+ .debug_info    0x00004742       0xac Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+
+.debug_abbrev   0x00000000      0x637
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x14b Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .debug_abbrev  0x0000014b      0x228 Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+ .debug_abbrev  0x00000373       0xf9 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+ .debug_abbrev  0x0000046c      0x131 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+ .debug_abbrev  0x0000059d       0x9a Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+
+.debug_line     0x00000000      0x9c9
+ *(.debug_line)
+ .debug_line    0x00000000      0x199 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .debug_line    0x00000199      0x40c Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+ .debug_line    0x000005a5      0x206 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+ .debug_line    0x000007ab      0x1a0 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+ .debug_line    0x0000094b       0x7e Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+ .debug_line    0x000009c9        0x0 Obj/GNU_ARM_DEBUG_TETRA/MenuManager.o
+
+.debug_frame    0x00000000      0x498
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x30 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .debug_frame   0x00000030      0x334 Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+ .debug_frame   0x00000364       0x70 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+ .debug_frame   0x000003d4       0x94 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+ .debug_frame   0x00000468       0x30 Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+
+.debug_str      0x00000000     0x1bf8
+ *(.debug_str)
+ .debug_str     0x00000000     0x1037 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+                               0x1467 (size before relaxing)
+ .debug_str     0x00001037      0x665 Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+                                0xd73 (size before relaxing)
+ .debug_str     0x0000169c       0xb7 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+                                0x2c8 (size before relaxing)
+ .debug_str     0x00001753      0x47c Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+                                0x703 (size before relaxing)
+ .debug_str     0x00001bcf       0x29 Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+                                 0x87 (size before relaxing)
+
+.debug_loc      0x00000000      0x77e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x38 Obj/GNU_ARM_DEBUG_TETRA/Main.o
+ .debug_loc     0x00000038      0x584 Obj/GNU_ARM_DEBUG_TETRA/Entry.o
+ .debug_loc     0x000005bc       0xa8 Obj/GNU_ARM_DEBUG_TETRA/Menu.o
+ .debug_loc     0x00000664       0xe2 Obj/GNU_ARM_DEBUG_TETRA/DateScreen.o
+ .debug_loc     0x00000746       0x38 Obj/GNU_ARM_DEBUG_TETRA/Utils.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(Obj/GNU_ARM_DEBUG_TETRA/POS.axf elf32-littlearm)

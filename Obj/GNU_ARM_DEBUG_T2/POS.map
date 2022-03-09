@@ -1,0 +1,1977 @@
+Archive member included because of file (symbol)
+
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayFooter.o)
+                              Obj/GNU_ARM_DEBUG_T2/Menu.o (DisplayFooter)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayHeader.o)
+                              Obj/GNU_ARM_DEBUG_T2/Menu.o (DisplayHeader)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayLeds.o)
+                              Obj/GNU_ARM_DEBUG_T2/Menu.o (DisplayLeds)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Read_date.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (Telium_Read_date)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsColorDisplay.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (IsColorDisplay)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO1.o)
+                              Obj/GNU_ARM_DEBUG_T2/CardSwipe.o (IsISO1)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO2.o)
+                              Obj/GNU_ARM_DEBUG_T2/CardSwipe.o (IsISO2)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO3.o)
+                              Obj/GNU_ARM_DEBUG_T2/CardSwipe.o (IsISO3)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsPrinter.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (IsPrinter)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_ServiceRegister.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (Telium_ServiceRegister)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Atoi.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (atoi)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (Telium_Pprintf)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Stdprt.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o) (Telium_Stdprt)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (sprintf)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayFooter.o) (extenslib_open)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Read_date.o) (toolslib_open)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ApplicationGetCurrent.o)
+                              Obj/GNU_ARM_DEBUG_T2/Main.o (ApplicationGetCurrent)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_close.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (FS_close)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_length.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (FS_length)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_mount.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (FS_mount)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_open.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (FS_open)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_read.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (FS_read)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_unmount.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (FS_unmount)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ObjectGetInfo.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (ObjectGetInfo)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Exit.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsColorDisplay.o) (Telium_Exit)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fclose.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (Telium_Fclose)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fopen.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (Telium_Fopen)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso1.o)
+                              Obj/GNU_ARM_DEBUG_T2/CardSwipe.o (Telium_Is_iso1)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso2.o)
+                              Obj/GNU_ARM_DEBUG_T2/CardSwipe.o (Telium_Is_iso2)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso3.o)
+                              Obj/GNU_ARM_DEBUG_T2/CardSwipe.o (Telium_Is_iso3)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Reset_buf.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (Telium_Reset_buf)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Status.o)
+                              Obj/GNU_ARM_DEBUG_T2/CardSwipe.o (Telium_Status)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Stdperif.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (Telium_Stdperif)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Ttestall.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (Telium_Ttestall)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vfprintf.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o) (Telium_Vfprintf)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vsprintf.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o) (Telium_Vsprintf)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(first_init.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (first_init)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(raz_init.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (raz_init)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ufree.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o (ufree)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(umalloc.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o (umalloc)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(urealloc.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o (urealloc)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_Close.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o) (OSL_Dll_Close)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_GetSymbolByName.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o) (OSL_Dll_GetSymbolByName)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_OpenByAppliType.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o) (OSL_Dll_OpenByAppliType)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Button_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Button_Create)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Amount.o)
+                              Obj/GNU_ARM_DEBUG_T2/Sale.o (GL_Dialog_Amount)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Menu.o)
+                              Obj/GNU_ARM_DEBUG_T2/Menu.o (GL_Dialog_Menu)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Message.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Dialog_Message)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Password.o)
+                              Obj/GNU_ARM_DEBUG_T2/Sale.o (GL_Dialog_Password)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Text.o)
+                              Obj/GNU_ARM_DEBUG_T2/MenuManager.o (GL_Dialog_Text)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Document_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Document_Create)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Document_Print.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Document_Print)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_Clear.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Drawing_Clear)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Drawing_Create)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawEllipse.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Drawing_DrawEllipse)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawLine.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Drawing_DrawLine)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawRect.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Drawing_DrawRect)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawText.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Drawing_DrawText)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetBrush.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Drawing_SetBrush)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetFont.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Drawing_SetFont)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetPen.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Drawing_SetPen)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_BindSingleKey.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_GraphicLib_BindSingleKey)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_GraphicLib_Create)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Destroy.o)
+                              Obj/GNU_ARM_DEBUG_T2/UserInterface.o (GL_GraphicLib_Destroy)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_IsTouchPresent.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_GraphicLib_IsTouchPresent)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_ReadResource.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_GraphicLib_ReadResource)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_SetCharset.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_GraphicLib_SetCharset)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_UnbindKey.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_GraphicLib_UnbindKey)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Label_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Label_Create)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Layout_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Layout_Create)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetKey.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Message_GetKey)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWidget.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Message_GetWidget)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWindow.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Message_GetWindow)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetResult.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Message_SetResult)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetUserData.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Message_SetUserData)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Picture_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Picture_Create)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Print_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Print_Create)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Timer_Create)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_SetInterval.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Timer_SetInterval)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_Stop.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Timer_Stop)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_Destroy.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Widget_Destroy)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetText.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Widget_GetText)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetUserData.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_GetUserData)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_RegisterCallback.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Widget_RegisterCallback)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SearchId.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Widget_SearchId)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackAlign.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Widget_SetBackAlign)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackColor.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetBackColor)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBorders.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetBorders)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetExpand.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetExpand)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFocusable.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetFocusable)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontName.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetFontName)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontScale.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Widget_SetFontScale)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontStyle.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetFontStyle)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetForeColor.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetForeColor)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetGrow.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetGrow)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetId.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetId)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetItem.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetItem)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetMargins.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetMargins)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetMinSize.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetMinSize)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetShortcut.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetShortcut)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetShrink.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetShrink)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetSize.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetSize)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetSource.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetSource)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetText.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Widget_SetText)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTextAlign.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetTextAlign)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTextPaddings.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetTextPaddings)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTransformation.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetTransformation)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetVisible.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetVisible)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetWrap.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_SetWrap)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_UnregisterCallback.o)
+                              Obj/GNU_ARM_DEBUG_T2/Goal.o (GL_Widget_UnregisterCallback)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Create.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Window_Create)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Dispatch.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (GL_Window_Dispatch)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_GetResult.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Window_GetResult)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_MainLoop.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Window_MainLoop)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_PreviousFocus.o)
+                              Obj/GNU_ARM_DEBUG_T2/DateScreen.o (GL_Window_PreviousFocus)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o) (GL_GetProcAddressWithoutExit)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(gl_asm_link.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Button_Create.o) (GL_InitFuncAndBranch)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+                              Obj/GNU_ARM_DEBUG_T2/Sale.o (atof)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (memcpy)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o (memset)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (strchr)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (strcpy)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+                              Obj/GNU_ARM_DEBUG_T2/MenuManager.o (strlen)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+                              Obj/GNU_ARM_DEBUG_T2/Entry.o (strncpy)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o) (strtod)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (__gethex)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (__hexnan)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (_impure_ptr)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (_localeconv_r)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (_Bfree)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (__fpclassifyd)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (nanf)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o) (strcmp)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (strncmp)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_divsi3.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o) (__divsi3)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_dvmd_tls.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_divsi3.o) (__div0)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_addsubdf3.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (__subdf3)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_muldivdf3.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (__muldf3)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_cmpdf2.o)
+                              Obj/GNU_ARM_DEBUG_T2/Sale.o (__gtdf2)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixdfsi.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (__fixdfsi)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixunsdfsi.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (__fixunsdfsi)
+C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_truncdfsf2.o)
+                              C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o) (__truncdfsf2)
+C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(upload_diagnostic_txt.o)
+                              C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o) (upload_diagnostic_txt)
+
+Allocating common symbols
+Common symbol       size              file
+
+sSavedStatusLeds    0x4               Obj/GNU_ARM_DEBUG_T2/Menu.o
+__hexdig            0x100             C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+sSavedStatusFooter  0x4               Obj/GNU_ARM_DEBUG_T2/Menu.o
+sSavedStatusHeader  0x4               Obj/GNU_ARM_DEBUG_T2/Menu.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x00001000                . = 0x1000
+                0x00001000                __text_start = .
+
+.text           0x00001000     0x9010
+ *(.first)
+ .first         0x00001000       0x8c C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+                0x00001000                _start
+ *(.text .text.*)
+ .text          0x0000108c      0x104 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+                0x0000113c                __stack_chk_fail
+ .text          0x00001190       0xc0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+                0x00001190                _calloc_r
+                0x000011e0                _free_r
+                0x000011fc                _malloc_r
+                0x00001224                _realloc_r
+ .text          0x00001250      0x2a8 Obj/GNU_ARM_DEBUG_T2/Main.o
+                0x00001250                Main
+ .text          0x000014f8      0xfec Obj/GNU_ARM_DEBUG_T2/Entry.o
+                0x000014f8                give_your_domain
+                0x0000155c                after_reset
+                0x000015b8                is_name
+                0x00001654                is_state
+                0x000016ac                idle_message
+                0x00001778                more_function
+                0x000017ac                keyboard_event
+                0x00001818                state
+                0x000018fc                consult
+                0x000019b0                mcall
+                0x00001a64                is_time_function
+                0x00001abc                time_function
+                0x00001b30                is_change_init
+                0x00001bc0                modif_param
+                0x00001c50                is_evol_pg
+                0x00001ca8                is_delete
+                0x00001ce0                file_received
+                0x00001e60                message_received
+                0x00001f18                is_card_specific
+                0x00001f70                card_inside
+                0x00001fc4                is_for_you_after
+                0x00002164                debit_non_emv
+                0x000022bc                give_your_specific_context
+                0x000023dc                give_interface
+                0x00002440                entry
+ .text          0x000024e4      0x1e4 Obj/GNU_ARM_DEBUG_T2/Menu.o
+                0x000024e4                menuGoalDisplay
+                0x0000259c                initUIContext
+                0x00002644                releaseUIContext
+ .text          0x000026c8      0x38c Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+                0x000026c8                dateScreenUseGoalResource
+ .text          0x00002a54       0xd4 Obj/GNU_ARM_DEBUG_T2/Utils.o
+                0x00002a54                utilsCheckDate
+ .text          0x00002b28      0x17c Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+                0x00002b28                enterBillPayment
+ .text          0x00002ca4      0x258 Obj/GNU_ARM_DEBUG_T2/Sale.o
+                0x00002ca4                enterAmount
+ .text          0x00002efc      0x238 Obj/GNU_ARM_DEBUG_T2/CashBack.o
+                0x00002efc                saleCashBack
+ .text          0x00003134      0x224 Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+                0x00003134                EMV_UI_GoalHandle
+                0x00003174                EMV_UI_GoalDestroy
+                0x000031b4                EMV_UI_GoalOpen
+                0x00003244                EMV_UI_GoalClose
+                0x000032bc                EMV_UI_MessageInsertCard
+                0x00003308                EMV_UI_MessageTransactionError
+ .text          0x00003358      0x588 Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+                0x00003358                checkISO
+                0x0000345c                swipeOrCard
+                0x000034a8                processCard
+ .text          0x000038e0        0x0 Obj/GNU_ARM_DEBUG_T2/globals.o
+ .text          0x000038e0        0x0 Obj/GNU_ARM_DEBUG_T2/Print.o
+ .text          0x000038e0     0x29e0 Obj/GNU_ARM_DEBUG_T2/Goal.o
+                0x00003a40                GoalCreateScreen
+                0x00003e50                GoalClrScreen
+                0x00004084                GoalRefreshScreen
+                0x000040b4                GoalDspLine
+                0x00004528                GoalDspMultiLine
+                0x0000470c                GoalGetKey
+                0x00004a84                GoalDestroyScreen
+                0x00004ab8                GoalCreateDrawing
+                0x00004ce8                GoalClrDrawing
+                0x00004e1c                GoalDrawLine
+                0x00004fac                GoalDrawRect
+                0x00005150                GoalDrawEllipse
+                0x000052f4                GoalDrawText
+                0x000054dc                GoalDestroyDrawing
+                0x00005510                GoalCreatePicture
+                0x0000576c                GoalClrPicture
+                0x000058ec                GoalDspPicture
+                0x00005c28                GoalDestroyPicture
+                0x00005c5c                GoalCreateDocument
+                0x00005ce0                GoalPrnLine
+                0x00005f20                GoalPrnMultiLine
+                0x00006170                GoalPrnPicture
+                0x00006230                GoalPrnDocument
+                0x0000628c                GoalDestroyDocument
+ .text          0x000062c0       0x5c C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayFooter.o)
+                0x000062d0                DisplayFooter
+ .text          0x0000631c       0x5c C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayHeader.o)
+                0x0000632c                DisplayHeader
+ .text          0x00006378       0x58 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayLeds.o)
+                0x00006384                DisplayLeds
+ .text          0x000063d0       0x60 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Read_date.o)
+                0x000063e4                Telium_Read_date
+ .text          0x00006430       0x64 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsColorDisplay.o)
+                0x00006440                IsColorDisplay
+ .text          0x00006494       0x5c C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO1.o)
+                0x0000649c                IsISO1
+ .text          0x000064f0       0x5c C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO2.o)
+                0x000064f8                IsISO2
+ .text          0x0000654c       0x5c C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO3.o)
+                0x00006554                IsISO3
+ .text          0x000065a8       0x60 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsPrinter.o)
+                0x000065b4                IsPrinter
+ .text          0x00006608       0x64 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_ServiceRegister.o)
+                0x00006620                Telium_ServiceRegister
+ .text          0x0000666c       0x50 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Atoi.o)
+                0x0000666c                atol
+                0x000066b0                atoi
+ .text          0x000066bc       0x34 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o)
+                0x000066bc                Telium_Pprintf
+ .text          0x000066f0       0x20 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Stdprt.o)
+                0x000066f8                Telium_Stdprt
+ .text          0x00006710       0x20 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o)
+                0x00006710                sprintf
+ .text          0x00006730       0x74 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+                0x00006730                extenslib_close
+                0x00006744                extenslib_open
+                0x00006780                GetProcAddressExtens
+ .text          0x000067a4       0x78 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+                0x000067a4                toolslib_close
+                0x000067b8                toolslib_open
+                0x000067f8                GetProcAddressTools
+ .text          0x0000681c        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ApplicationGetCurrent.o)
+                0x0000681c                ApplicationGetCurrent
+ .text          0x0000682a        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_close.o)
+                0x0000682a                FS_close
+ .text          0x00006838        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_length.o)
+                0x00006838                FS_length
+ .text          0x00006846        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_mount.o)
+                0x00006846                FS_mount
+ .text          0x00006854        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_open.o)
+                0x00006854                FS_open
+ .text          0x00006862        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_read.o)
+                0x00006862                FS_read
+ .text          0x00006870        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_unmount.o)
+                0x00006870                FS_unmount
+ .text          0x0000687e        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ObjectGetInfo.o)
+                0x0000687e                ObjectGetInfo
+ .text          0x0000688c        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Exit.o)
+                0x0000688c                Telium_Exit
+ .text          0x0000689a        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fclose.o)
+                0x0000689a                Telium_Fclose
+ .text          0x000068a8        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fopen.o)
+                0x000068a8                Telium_Fopen
+ .text          0x000068b6        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso1.o)
+                0x000068b6                Telium_Is_iso1
+ .text          0x000068c4        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso2.o)
+                0x000068c4                Telium_Is_iso2
+ .text          0x000068d2        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso3.o)
+                0x000068d2                Telium_Is_iso3
+ .text          0x000068e0        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Reset_buf.o)
+                0x000068e0                Telium_Reset_buf
+ .text          0x000068ee        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Status.o)
+                0x000068ee                Telium_Status
+ .text          0x000068fc        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Stdperif.o)
+                0x000068fc                Telium_Stdperif
+ .text          0x0000690a        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Ttestall.o)
+                0x0000690a                Telium_Ttestall
+ .text          0x00006918        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vfprintf.o)
+                0x00006918                Telium_Vfprintf
+ .text          0x00006926        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vsprintf.o)
+                0x00006926                Telium_Vsprintf
+ .text          0x00006934        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(first_init.o)
+                0x00006934                first_init
+ .text          0x00006942        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(raz_init.o)
+                0x00006942                raz_init
+ .text          0x00006950        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ufree.o)
+                0x00006950                ufree
+ .text          0x0000695e        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(umalloc.o)
+                0x0000695e                umalloc
+ .text          0x0000696c        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(urealloc.o)
+                0x0000696c                urealloc
+ .text          0x0000697a        0xc C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_Close.o)
+                0x0000697a                OSL_Dll_Close
+ .text          0x00006986        0xc C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_GetSymbolByName.o)
+                0x00006986                OSL_Dll_GetSymbolByName
+ .text          0x00006992        0xc C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_OpenByAppliType.o)
+                0x00006992                OSL_Dll_OpenByAppliType
+ *fill*         0x0000699e        0x2 00
+ .text          0x000069a0       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Button_Create.o)
+                0x000069ac                GL_Button_Create
+ .text          0x000069c4       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Amount.o)
+                0x000069d0                GL_Dialog_Amount
+ .text          0x000069e8       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Menu.o)
+                0x000069f4                GL_Dialog_Menu
+ .text          0x00006a0c       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Message.o)
+                0x00006a18                GL_Dialog_Message
+ .text          0x00006a30       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Password.o)
+                0x00006a3c                GL_Dialog_Password
+ .text          0x00006a54       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Text.o)
+                0x00006a60                GL_Dialog_Text
+ .text          0x00006a78       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Document_Create.o)
+                0x00006a84                GL_Document_Create
+ .text          0x00006a9c       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Document_Print.o)
+                0x00006aa8                GL_Document_Print
+ .text          0x00006ac0       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_Clear.o)
+                0x00006acc                GL_Drawing_Clear
+ .text          0x00006ae4       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_Create.o)
+                0x00006af0                GL_Drawing_Create
+ .text          0x00006b08       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawEllipse.o)
+                0x00006b14                GL_Drawing_DrawEllipse
+ .text          0x00006b2c       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawLine.o)
+                0x00006b38                GL_Drawing_DrawLine
+ .text          0x00006b50       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawRect.o)
+                0x00006b5c                GL_Drawing_DrawRect
+ .text          0x00006b74       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawText.o)
+                0x00006b80                GL_Drawing_DrawText
+ .text          0x00006b98       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetBrush.o)
+                0x00006ba4                GL_Drawing_SetBrush
+ .text          0x00006bbc       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetFont.o)
+                0x00006bc8                GL_Drawing_SetFont
+ .text          0x00006be0       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetPen.o)
+                0x00006bec                GL_Drawing_SetPen
+ .text          0x00006c04       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_BindSingleKey.o)
+                0x00006c10                GL_GraphicLib_BindSingleKey
+ .text          0x00006c28       0xbc C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o)
+                0x00006c28                GL_GraphicLib_Create
+                0x00006ca4                GL_GraphicLib_Create_Init
+ .text          0x00006ce4       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Destroy.o)
+                0x00006cf0                GL_GraphicLib_Destroy
+ .text          0x00006d08       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_IsTouchPresent.o)
+                0x00006d14                GL_GraphicLib_IsTouchPresent
+ .text          0x00006d2c       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_ReadResource.o)
+                0x00006d38                GL_GraphicLib_ReadResource
+ .text          0x00006d50       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_SetCharset.o)
+                0x00006d5c                GL_GraphicLib_SetCharset
+ .text          0x00006d74       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_UnbindKey.o)
+                0x00006d80                GL_GraphicLib_UnbindKey
+ .text          0x00006d98       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Label_Create.o)
+                0x00006da4                GL_Label_Create
+ .text          0x00006dbc       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Layout_Create.o)
+                0x00006dc8                GL_Layout_Create
+ .text          0x00006de0       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetKey.o)
+                0x00006dec                GL_Message_GetKey
+ .text          0x00006e04       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWidget.o)
+                0x00006e10                GL_Message_GetWidget
+ .text          0x00006e28       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWindow.o)
+                0x00006e34                GL_Message_GetWindow
+ .text          0x00006e4c       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetResult.o)
+                0x00006e58                GL_Message_SetResult
+ .text          0x00006e70       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetUserData.o)
+                0x00006e7c                GL_Message_SetUserData
+ .text          0x00006e94       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Picture_Create.o)
+                0x00006ea0                GL_Picture_Create
+ .text          0x00006eb8       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Print_Create.o)
+                0x00006ec4                GL_Print_Create
+ .text          0x00006edc       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_Create.o)
+                0x00006ee8                GL_Timer_Create
+ .text          0x00006f00       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_SetInterval.o)
+                0x00006f0c                GL_Timer_SetInterval
+ .text          0x00006f24       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_Stop.o)
+                0x00006f30                GL_Timer_Stop
+ .text          0x00006f48       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_Destroy.o)
+                0x00006f54                GL_Widget_Destroy
+ .text          0x00006f6c       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetText.o)
+                0x00006f78                GL_Widget_GetText
+ .text          0x00006f90       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetUserData.o)
+                0x00006f9c                GL_Widget_GetUserData
+ .text          0x00006fb4       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_RegisterCallback.o)
+                0x00006fc0                GL_Widget_RegisterCallback
+ .text          0x00006fd8       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SearchId.o)
+                0x00006fe4                GL_Widget_SearchId
+ .text          0x00006ffc       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackAlign.o)
+                0x00007008                GL_Widget_SetBackAlign
+ .text          0x00007020       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackColor.o)
+                0x0000702c                GL_Widget_SetBackColor
+ .text          0x00007044       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBorders.o)
+                0x00007050                GL_Widget_SetBorders
+ .text          0x00007068       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetExpand.o)
+                0x00007074                GL_Widget_SetExpand
+ .text          0x0000708c       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFocusable.o)
+                0x00007098                GL_Widget_SetFocusable
+ .text          0x000070b0       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontName.o)
+                0x000070bc                GL_Widget_SetFontName
+ .text          0x000070d4       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontScale.o)
+                0x000070e0                GL_Widget_SetFontScale
+ .text          0x000070f8       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontStyle.o)
+                0x00007104                GL_Widget_SetFontStyle
+ .text          0x0000711c       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetForeColor.o)
+                0x00007128                GL_Widget_SetForeColor
+ .text          0x00007140       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetGrow.o)
+                0x0000714c                GL_Widget_SetGrow
+ .text          0x00007164       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetId.o)
+                0x00007170                GL_Widget_SetId
+ .text          0x00007188       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetItem.o)
+                0x00007194                GL_Widget_SetItem
+ .text          0x000071ac       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetMargins.o)
+                0x000071b8                GL_Widget_SetMargins
+ .text          0x000071d0       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetMinSize.o)
+                0x000071dc                GL_Widget_SetMinSize
+ .text          0x000071f4       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetShortcut.o)
+                0x00007200                GL_Widget_SetShortcut
+ .text          0x00007218       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetShrink.o)
+                0x00007224                GL_Widget_SetShrink
+ .text          0x0000723c       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetSize.o)
+                0x00007248                GL_Widget_SetSize
+ .text          0x00007260       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetSource.o)
+                0x0000726c                GL_Widget_SetSource
+ .text          0x00007284       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetText.o)
+                0x00007290                GL_Widget_SetText
+ .text          0x000072a8       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTextAlign.o)
+                0x000072b4                GL_Widget_SetTextAlign
+ .text          0x000072cc       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTextPaddings.o)
+                0x000072d8                GL_Widget_SetTextPaddings
+ .text          0x000072f0       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTransformation.o)
+                0x000072fc                GL_Widget_SetTransformation
+ .text          0x00007314       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetVisible.o)
+                0x00007320                GL_Widget_SetVisible
+ .text          0x00007338       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetWrap.o)
+                0x00007344                GL_Widget_SetWrap
+ .text          0x0000735c       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_UnregisterCallback.o)
+                0x00007368                GL_Widget_UnregisterCallback
+ .text          0x00007380       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Create.o)
+                0x0000738c                GL_Window_Create
+ .text          0x000073a4       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Dispatch.o)
+                0x000073b0                GL_Window_Dispatch
+ .text          0x000073c8       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_GetResult.o)
+                0x000073d4                GL_Window_GetResult
+ .text          0x000073ec       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_MainLoop.o)
+                0x000073f8                GL_Window_MainLoop
+ .text          0x00007410       0x24 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_PreviousFocus.o)
+                0x0000741c                GL_Window_PreviousFocus
+ .text          0x00007434      0x114 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+                0x00007434                GL_IsPresent
+                0x00007470                GL_GetProcAddressWithoutExit
+                0x00007508                GL_GetProcAddress
+ .text          0x00007548       0x2c C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(gl_asm_link.o)
+                0x00007548                GL_InitFuncAndBranch
+                0x00007558                GL_Swi_ObjectLoad
+                0x00007566                GL_Swi_DllLink
+ .text          0x00007574        0xc C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+                0x00007574                atof
+ .text          0x00007580       0x1c C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+                0x00007580                memcpy
+ .text          0x0000759c       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+                0x0000759c                memset
+ .text          0x000075ac       0x1c C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+                0x000075ac                strchr
+ .text          0x000075c8       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+                0x000075c8                strcpy
+ .text          0x000075d8       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+                0x000075d8                strlen
+ .text          0x000075e8       0x34 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+                0x000075e8                strncpy
+ .text          0x0000761c      0xc88 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+                0x0000761c                _strtod_r
+                0x00008254                strtof
+                0x00008288                strtod
+ .text          0x000082a4      0x54c C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+                0x000082a4                __hexdig_init
+                0x00008370                __gethex
+ .text          0x000087f0      0x170 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+                0x000087f0                __hexnan
+ .text          0x00008960        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+ .text          0x00008960       0x84 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+                0x00008960                __locale_charset
+                0x00008968                __locale_msgcharset
+                0x00008970                __locale_cjk_lang
+                0x00008974                _localeconv_r
+                0x0000897c                localeconv
+                0x00008984                _setlocale_r
+                0x000089c8                setlocale
+ .text          0x000089e4      0x8e8 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+                0x000089e4                _Bfree
+                0x000089fc                __hi0bits
+                0x00008a44                __lo0bits
+                0x00008aa8                __mcmp
+                0x00008ae8                __ulp
+                0x00008b30                __b2d
+                0x00008bec                __ratio
+                0x00008c40                _mprec_log10
+                0x00008c80                __copybits
+                0x00008cb4                __any_on
+                0x00008d04                _Balloc
+                0x00008d58                __d2b
+                0x00008e20                __mdiff
+                0x00008f34                __lshift
+                0x00008fcc                __multiply
+                0x00009108                __i2b
+                0x00009120                __multadd
+                0x000091ac                __pow5mult
+                0x00009248                __s2b
+ .text          0x000092cc       0x7c C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+                0x000092cc                __fpclassifyd
+ .text          0x00009348        0x8 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+                0x00009348                nanf
+ .text          0x00009350       0x14 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+                0x00009350                strcmp
+ .text          0x00009364       0x2c C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+                0x00009364                strncmp
+ .text          0x00009390       0xa4 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_divsi3.o)
+                0x00009390                __aeabi_idiv
+                0x00009390                __divsi3
+                0x00009424                __aeabi_idivmod
+ .text          0x00009434        0x4 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_dvmd_tls.o)
+                0x00009434                __aeabi_ldiv0
+                0x00009434                __div0
+                0x00009434                __aeabi_idiv0
+ .text          0x00009438      0x430 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_addsubdf3.o)
+                0x00009438                __aeabi_drsub
+                0x00009440                __subdf3
+                0x00009440                __aeabi_dsub
+                0x00009444                __aeabi_dadd
+                0x00009444                __adddf3
+                0x00009754                __aeabi_ui2d
+                0x00009754                __floatunsidf
+                0x0000977c                __floatsidf
+                0x0000977c                __aeabi_i2d
+                0x000097a8                __extendsfdf2
+                0x000097a8                __aeabi_f2d
+                0x000097e8                __aeabi_ul2d
+                0x000097e8                __floatundidf
+                0x000097fc                __aeabi_l2d
+                0x000097fc                __floatdidf
+ .text          0x00009868      0x49c C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_muldivdf3.o)
+                0x00009868                __aeabi_dmul
+                0x00009868                __muldf3
+                0x00009af8                __aeabi_ddiv
+                0x00009af8                __divdf3
+ .text          0x00009d04      0x140 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_cmpdf2.o)
+                0x00009d04                __gtdf2
+                0x00009d04                __gedf2
+                0x00009d0c                __ltdf2
+                0x00009d0c                __ledf2
+                0x00009d14                __eqdf2
+                0x00009d14                __nedf2
+                0x00009d14                __cmpdf2
+                0x00009d98                __aeabi_cdrcmple
+                0x00009db4                __aeabi_cdcmple
+                0x00009db4                __aeabi_cdcmpeq
+                0x00009dcc                __aeabi_dcmpeq
+                0x00009de4                __aeabi_dcmplt
+                0x00009dfc                __aeabi_dcmple
+                0x00009e14                __aeabi_dcmpge
+                0x00009e2c                __aeabi_dcmpgt
+ .text          0x00009e44       0x5c C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixdfsi.o)
+                0x00009e44                __fixdfsi
+                0x00009e44                __aeabi_d2iz
+ .text          0x00009ea0       0x54 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixunsdfsi.o)
+                0x00009ea0                __fixunsdfsi
+                0x00009ea0                __aeabi_d2uiz
+ .text          0x00009ef4       0xa0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_truncdfsf2.o)
+                0x00009ef4                __aeabi_d2f
+                0x00009ef4                __truncdfsf2
+ .text          0x00009f94        0xe C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(upload_diagnostic_txt.o)
+                0x00009f94                upload_diagnostic_txt
+ *fill*         0x00009fa2        0x6 00
+ .text.stub     0x00009fa8       0x68 linker stubs
+ *(.gnu.linkonce.t.*)
+ *(.strings .strings.*)
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.gcc_except_table)
+
+.vfp11_veneer   0x0000a010        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0000a010        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.eh_frame
+ *(.eh_frame)
+
+.jcr
+ *(.jcr)
+
+.ctors          0x0000a010        0x0
+                0x0000a010                __ctors_start = .
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x0000a010                __ctors_end = .
+
+.dtors          0x0000a010        0x0
+                0x0000a010                __dtors_start = .
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x0000a010                __dtors_end = .
+
+.rodata         0x0000a010      0xe2c
+ *(.rodata .rodata.*)
+ .rodata        0x0000a010       0x18 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+ .rodata        0x0000a028       0xd8 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .rodata        0x0000a100      0x35c Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .rodata        0x0000a45c       0x5c Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .rodata        0x0000a4b8       0xa4 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+                0x0000a4b8                DATESCREEN_OK_STATUS
+                0x0000a4bc                DATESCREEN_CANCEL_STATUS
+ .rodata        0x0000a55c      0x120 Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+ .rodata        0x0000a67c      0x1c0 Obj/GNU_ARM_DEBUG_T2/Sale.o
+ .rodata        0x0000a83c      0x17c Obj/GNU_ARM_DEBUG_T2/CashBack.o
+ .rodata        0x0000a9b8       0x54 Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+ .rodata        0x0000aa0c      0x134 Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+ .rodata        0x0000ab40       0xb0 Obj/GNU_ARM_DEBUG_T2/Goal.o
+ .rodata.str1.1
+                0x0000abf0        0x8 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+ .rodata.str1.1
+                0x00000000        0x8 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+ .rodata.str1.1
+                0x0000abf8       0x6a C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+ .rodata.str1.1
+                0x0000ac62        0xc C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ *fill*         0x0000ac6e        0x2 00
+ .rodata        0x0000ac70       0x44 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ .rodata.str1.1
+                0x0000acb4       0x19 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ *fill*         0x0000accd        0x3 00
+ .rodata        0x0000acd0        0x4 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+                0x0000acd0                _global_impure_ptr
+ .rodata.str1.1
+                0x0000acd4        0x2 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x0000acd6        0x8 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+                                  0xb (size before relaxing)
+ *fill*         0x0000acde        0x2 00
+ .rodata        0x0000ace0       0x38 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+ .rodata        0x0000ad18      0x124 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+                0x0000ad18                __mprec_tens
+                0x0000ade0                __mprec_bigtens
+                0x0000ae08                __mprec_tinytens
+ *(.gnu.linkonce.r.*)
+                0x0000ae3c                __text_end = .
+                0x00200000                . = 0x200000
+
+.data           0x00200000      0xa44 load address 0x0000ae3c
+                0x00200000                __data_start = .
+ *(.data .data.*)
+ .data          0x00200000        0x8 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+                0x00200000                __stack_chk_guard
+                0x00200004                __dso_handle
+ .data          0x00200008        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .data          0x00200008        0x0 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .data          0x00200008      0x108 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/Sale.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/CashBack.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/globals.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/Print.o
+ .data          0x00200110        0x0 Obj/GNU_ARM_DEBUG_T2/Goal.o
+ .data          0x00200110        0x4 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayFooter.o)
+ .data          0x00200114        0x4 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayHeader.o)
+ .data          0x00200118        0x4 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayLeds.o)
+ .data          0x0020011c        0x4 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Read_date.o)
+ .data          0x00200120        0x4 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsColorDisplay.o)
+ .data          0x00200124        0x4 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO1.o)
+ .data          0x00200128        0x4 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO2.o)
+ .data          0x0020012c        0x4 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO3.o)
+ .data          0x00200130        0x4 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsPrinter.o)
+ .data          0x00200134        0x4 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_ServiceRegister.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Atoi.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Stdprt.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ApplicationGetCurrent.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_close.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_length.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_mount.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_open.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_read.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_unmount.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ObjectGetInfo.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Exit.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fclose.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fopen.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso1.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso2.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso3.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Reset_buf.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Status.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Stdperif.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Ttestall.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vfprintf.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vsprintf.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(first_init.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(raz_init.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ufree.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(umalloc.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(urealloc.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_Close.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_GetSymbolByName.o)
+ .data          0x00200138        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_OpenByAppliType.o)
+ *fill*         0x00200138        0x8 00
+ .data          0x00200140       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Button_Create.o)
+ .data          0x00200150       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Amount.o)
+ .data          0x00200160       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Menu.o)
+ .data          0x00200170       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Message.o)
+ .data          0x00200180       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Password.o)
+ .data          0x00200190       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Text.o)
+ .data          0x002001a0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Document_Create.o)
+ .data          0x002001b0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Document_Print.o)
+ .data          0x002001c0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_Clear.o)
+ .data          0x002001d0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_Create.o)
+ .data          0x002001e0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawEllipse.o)
+ .data          0x002001f0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawLine.o)
+ .data          0x00200200       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawRect.o)
+ .data          0x00200210       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawText.o)
+ .data          0x00200220       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetBrush.o)
+ .data          0x00200230       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetFont.o)
+ .data          0x00200240       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetPen.o)
+ .data          0x00200250       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_BindSingleKey.o)
+ .data          0x00200260        0x4 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o)
+ *fill*         0x00200264        0xc 00
+ .data          0x00200270       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Destroy.o)
+ .data          0x00200280       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_IsTouchPresent.o)
+ .data          0x00200290       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_ReadResource.o)
+ .data          0x002002a0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_SetCharset.o)
+ .data          0x002002b0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_UnbindKey.o)
+ .data          0x002002c0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Label_Create.o)
+ .data          0x002002d0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Layout_Create.o)
+ .data          0x002002e0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetKey.o)
+ .data          0x002002f0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWidget.o)
+ .data          0x00200300       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWindow.o)
+ .data          0x00200310       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetResult.o)
+ .data          0x00200320       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetUserData.o)
+ .data          0x00200330       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Picture_Create.o)
+ .data          0x00200340       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Print_Create.o)
+ .data          0x00200350       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_Create.o)
+ .data          0x00200360       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_SetInterval.o)
+ .data          0x00200370       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_Stop.o)
+ .data          0x00200380       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_Destroy.o)
+ .data          0x00200390       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetText.o)
+ .data          0x002003a0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetUserData.o)
+ .data          0x002003b0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_RegisterCallback.o)
+ .data          0x002003c0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SearchId.o)
+ .data          0x002003d0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackAlign.o)
+ .data          0x002003e0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackColor.o)
+ .data          0x002003f0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBorders.o)
+ .data          0x00200400       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetExpand.o)
+ .data          0x00200410       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFocusable.o)
+ .data          0x00200420       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontName.o)
+ .data          0x00200430       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontScale.o)
+ .data          0x00200440       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontStyle.o)
+ .data          0x00200450       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetForeColor.o)
+ .data          0x00200460       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetGrow.o)
+ .data          0x00200470       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetId.o)
+ .data          0x00200480       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetItem.o)
+ .data          0x00200490       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetMargins.o)
+ .data          0x002004a0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetMinSize.o)
+ .data          0x002004b0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetShortcut.o)
+ .data          0x002004c0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetShrink.o)
+ .data          0x002004d0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetSize.o)
+ .data          0x002004e0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetSource.o)
+ .data          0x002004f0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetText.o)
+ .data          0x00200500       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTextAlign.o)
+ .data          0x00200510       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTextPaddings.o)
+ .data          0x00200520       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTransformation.o)
+ .data          0x00200530       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetVisible.o)
+ .data          0x00200540       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetWrap.o)
+ .data          0x00200550       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_UnregisterCallback.o)
+ .data          0x00200560       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Create.o)
+ .data          0x00200570       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Dispatch.o)
+ .data          0x00200580       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_GetResult.o)
+ .data          0x00200590       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_MainLoop.o)
+ .data          0x002005a0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_PreviousFocus.o)
+ .data          0x002005b0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+ .data          0x002005b0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(gl_asm_link.o)
+ .data          0x002005b0        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+ .data          0x002005b0        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .data          0x002005b0        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .data          0x002005b0        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .data          0x002005b0        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .data          0x002005b0        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .data          0x002005b0        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .data          0x002005b0       0x28 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ .data          0x002005d8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ .data          0x002005d8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+ .data          0x002005d8      0x428 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+                0x002005d8                _impure_ptr
+ .data          0x00200a00       0x44 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+                0x00200a00                __mb_cur_max
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_divsi3.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_dvmd_tls.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_addsubdf3.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_muldivdf3.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_cmpdf2.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixdfsi.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixunsdfsi.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_truncdfsf2.o)
+ .data          0x00200a44        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(upload_diagnostic_txt.o)
+ *(.gnu.linkonce.d.*)
+                0x00200a44                __data_end = .
+
+.bss            0x00200a44      0x17c load address 0x0000b880
+                0x00200a44                __bss_start = .
+ *(.bss .bss.*)
+ .bss           0x00200a44        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+ .bss           0x00200a44        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .bss           0x00200a44        0x0 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .bss           0x00200a44       0x30 Obj/GNU_ARM_DEBUG_T2/Entry.o
+                0x00200a44                gGoalGraphicLibInstance
+ .bss           0x00200a74        0x8 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .bss           0x00200a7c        0x0 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .bss           0x00200a7c        0x0 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .bss           0x00200a7c        0x0 Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+ .bss           0x00200a7c        0x0 Obj/GNU_ARM_DEBUG_T2/Sale.o
+ .bss           0x00200a7c        0x0 Obj/GNU_ARM_DEBUG_T2/CashBack.o
+ .bss           0x00200a7c       0x10 Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+ .bss           0x00200a8c        0x0 Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+ .bss           0x00200a8c        0x0 Obj/GNU_ARM_DEBUG_T2/globals.o
+ .bss           0x00200a8c        0x0 Obj/GNU_ARM_DEBUG_T2/Print.o
+ .bss           0x00200a8c        0x0 Obj/GNU_ARM_DEBUG_T2/Goal.o
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayFooter.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayHeader.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayLeds.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Read_date.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsColorDisplay.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO1.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO2.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO3.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsPrinter.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_ServiceRegister.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Atoi.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Stdprt.o)
+ .bss           0x00200a8c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o)
+ .bss           0x00200a8c        0x8 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+                0x00200a8c                DllGetProcAddress3
+                0x00200a90                extens_Dll
+ .bss           0x00200a94        0x8 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+                0x00200a94                toolsDll
+                0x00200a98                DllGetProcAddressTools
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ApplicationGetCurrent.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_close.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_length.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_mount.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_open.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_read.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_unmount.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ObjectGetInfo.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Exit.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fclose.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fopen.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso1.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso2.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso3.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Reset_buf.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Status.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Stdperif.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Ttestall.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vfprintf.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vsprintf.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(first_init.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(raz_init.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ufree.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(umalloc.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(urealloc.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_Close.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_GetSymbolByName.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_OpenByAppliType.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Button_Create.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Amount.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Menu.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Message.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Password.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Text.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Document_Create.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Document_Print.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_Clear.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_Create.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawEllipse.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawLine.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawRect.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawText.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetBrush.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetFont.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetPen.o)
+ .bss           0x00200a9c        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_BindSingleKey.o)
+ .bss           0x00200a9c        0x4 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Destroy.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_IsTouchPresent.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_ReadResource.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_SetCharset.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_UnbindKey.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Label_Create.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Layout_Create.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetKey.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWidget.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWindow.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetResult.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetUserData.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Picture_Create.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Print_Create.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_Create.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_SetInterval.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_Stop.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_Destroy.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetText.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetUserData.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_RegisterCallback.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SearchId.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackAlign.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackColor.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBorders.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetExpand.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFocusable.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontName.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontScale.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontStyle.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetForeColor.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetGrow.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetId.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetItem.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetMargins.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetMinSize.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetShortcut.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetShrink.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetSize.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetSource.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetText.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTextAlign.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTextPaddings.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTransformation.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetVisible.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetWrap.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_UnregisterCallback.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Create.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Dispatch.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_GetResult.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_MainLoop.o)
+ .bss           0x00200aa0        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_PreviousFocus.o)
+ .bss           0x00200aa0        0x8 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+ .bss           0x00200aa8        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(gl_asm_link.o)
+ .bss           0x00200aa8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+ .bss           0x00200aa8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .bss           0x00200aa8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .bss           0x00200aa8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .bss           0x00200aa8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .bss           0x00200aa8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .bss           0x00200aa8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .bss           0x00200aa8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ .bss           0x00200aa8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ .bss           0x00200aa8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+ .bss           0x00200aa8        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+ .bss           0x00200aa8        0xc C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+                0x00200aa8                __nlocale_changed
+                0x00200aac                __mlocale_changed
+                0x00200ab0                _PathLocale
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_divsi3.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_dvmd_tls.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_addsubdf3.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_muldivdf3.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_cmpdf2.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixdfsi.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixunsdfsi.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_truncdfsf2.o)
+ .bss           0x00200ab4        0x0 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(upload_diagnostic_txt.o)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+ COMMON         0x00200ab4        0xc Obj/GNU_ARM_DEBUG_T2/Menu.o
+                0x00200ab4                sSavedStatusLeds
+                0x00200ab8                sSavedStatusFooter
+                0x00200abc                sSavedStatusHeader
+ COMMON         0x00200ac0      0x100 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+                0x00200ac0                __hexdig
+                0x00200bc0                __bss_end = .
+                0x00200bc0                PROVIDE (end, .)
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+LOAD Obj/GNU_ARM_DEBUG_T2/Main.o
+LOAD Obj/GNU_ARM_DEBUG_T2/Entry.o
+LOAD Obj/GNU_ARM_DEBUG_T2/Menu.o
+LOAD Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+LOAD Obj/GNU_ARM_DEBUG_T2/Utils.o
+LOAD Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+LOAD Obj/GNU_ARM_DEBUG_T2/Sale.o
+LOAD Obj/GNU_ARM_DEBUG_T2/CashBack.o
+LOAD Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+LOAD Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+LOAD Obj/GNU_ARM_DEBUG_T2/globals.o
+LOAD Obj/GNU_ARM_DEBUG_T2/Print.o
+LOAD Obj/GNU_ARM_DEBUG_T2/Goal.o
+START GROUP
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/BarCode_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/BCR_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/SECTPLUS.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/SEC_extend.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/Digest_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/dll_wifi_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/IP_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/LinkLayerExeInterface_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/SNMP_Tplus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/SSL_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/gps_dll.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/IPA280_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/ExtraGPRS.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/Mifare_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TPass_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GTL_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/NDEF_TPlus.LIB
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/SNTP.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/XMLs_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/FMG_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TlvTree_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/FTP_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/LIBOS.LIB
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/libTmsCall_TPlus.lib
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/LIBGRAPHICS.LIB
+LOAD C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB
+LOAD C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libsupc++.a
+LOAD C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a
+LOAD C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a
+END GROUP
+OUTPUT(Obj/GNU_ARM_DEBUG_T2/POS.axf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x10
+ .ARM.attributes
+                0x00000000       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/cstartupTplus.o
+ .ARM.attributes
+                0x00000010       0x10 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .ARM.attributes
+                0x00000020       0x10 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .ARM.attributes
+                0x00000030       0x10 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .ARM.attributes
+                0x00000040       0x10 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .ARM.attributes
+                0x00000050       0x10 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .ARM.attributes
+                0x00000060       0x10 Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+ .ARM.attributes
+                0x00000070       0x10 Obj/GNU_ARM_DEBUG_T2/Sale.o
+ .ARM.attributes
+                0x00000080       0x10 Obj/GNU_ARM_DEBUG_T2/CashBack.o
+ .ARM.attributes
+                0x00000090       0x10 Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+ .ARM.attributes
+                0x000000a0       0x10 Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+ .ARM.attributes
+                0x000000b0       0x10 Obj/GNU_ARM_DEBUG_T2/globals.o
+ .ARM.attributes
+                0x000000c0       0x10 Obj/GNU_ARM_DEBUG_T2/Print.o
+ .ARM.attributes
+                0x000000d0       0x10 Obj/GNU_ARM_DEBUG_T2/Goal.o
+ .ARM.attributes
+                0x000000e0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayFooter.o)
+ .ARM.attributes
+                0x000000f0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayHeader.o)
+ .ARM.attributes
+                0x00000100       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(DisplayLeds.o)
+ .ARM.attributes
+                0x00000110       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Read_date.o)
+ .ARM.attributes
+                0x00000120       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsColorDisplay.o)
+ .ARM.attributes
+                0x00000130       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO1.o)
+ .ARM.attributes
+                0x00000140       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO2.o)
+ .ARM.attributes
+                0x00000150       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsISO3.o)
+ .ARM.attributes
+                0x00000160       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(IsPrinter.o)
+ .ARM.attributes
+                0x00000170       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_ServiceRegister.o)
+ .ARM.attributes
+                0x00000180       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Atoi.o)
+ .ARM.attributes
+                0x00000190       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o)
+ .ARM.attributes
+                0x000001a0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Stdprt.o)
+ .ARM.attributes
+                0x000001b0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o)
+ .ARM.attributes
+                0x000001c0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+ .ARM.attributes
+                0x000001d0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+ .ARM.attributes
+                0x000001e0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ApplicationGetCurrent.o)
+ .ARM.attributes
+                0x000001f0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_close.o)
+ .ARM.attributes
+                0x00000200       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_length.o)
+ .ARM.attributes
+                0x00000210       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_mount.o)
+ .ARM.attributes
+                0x00000220       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_open.o)
+ .ARM.attributes
+                0x00000230       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_read.o)
+ .ARM.attributes
+                0x00000240       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(FS_unmount.o)
+ .ARM.attributes
+                0x00000250       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ObjectGetInfo.o)
+ .ARM.attributes
+                0x00000260       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Exit.o)
+ .ARM.attributes
+                0x00000270       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fclose.o)
+ .ARM.attributes
+                0x00000280       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Fopen.o)
+ .ARM.attributes
+                0x00000290       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso1.o)
+ .ARM.attributes
+                0x000002a0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso2.o)
+ .ARM.attributes
+                0x000002b0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Is_iso3.o)
+ .ARM.attributes
+                0x000002c0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Reset_buf.o)
+ .ARM.attributes
+                0x000002d0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Status.o)
+ .ARM.attributes
+                0x000002e0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Stdperif.o)
+ .ARM.attributes
+                0x000002f0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Ttestall.o)
+ .ARM.attributes
+                0x00000300       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vfprintf.o)
+ .ARM.attributes
+                0x00000310       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(Telium_Vsprintf.o)
+ .ARM.attributes
+                0x00000320       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(first_init.o)
+ .ARM.attributes
+                0x00000330       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(raz_init.o)
+ .ARM.attributes
+                0x00000340       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(ufree.o)
+ .ARM.attributes
+                0x00000350       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(umalloc.o)
+ .ARM.attributes
+                0x00000360       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(urealloc.o)
+ .ARM.attributes
+                0x00000370       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_Close.o)
+ .ARM.attributes
+                0x00000380       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_GetSymbolByName.o)
+ .ARM.attributes
+                0x00000390       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/OSLAYER.LIB(OSL_Dll_OpenByAppliType.o)
+ .ARM.attributes
+                0x000003a0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Button_Create.o)
+ .ARM.attributes
+                0x000003b0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Amount.o)
+ .ARM.attributes
+                0x000003c0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Menu.o)
+ .ARM.attributes
+                0x000003d0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Message.o)
+ .ARM.attributes
+                0x000003e0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Password.o)
+ .ARM.attributes
+                0x000003f0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Dialog_Text.o)
+ .ARM.attributes
+                0x00000400       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Document_Create.o)
+ .ARM.attributes
+                0x00000410       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Document_Print.o)
+ .ARM.attributes
+                0x00000420       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_Clear.o)
+ .ARM.attributes
+                0x00000430       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_Create.o)
+ .ARM.attributes
+                0x00000440       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawEllipse.o)
+ .ARM.attributes
+                0x00000450       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawLine.o)
+ .ARM.attributes
+                0x00000460       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawRect.o)
+ .ARM.attributes
+                0x00000470       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_DrawText.o)
+ .ARM.attributes
+                0x00000480       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetBrush.o)
+ .ARM.attributes
+                0x00000490       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetFont.o)
+ .ARM.attributes
+                0x000004a0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Drawing_SetPen.o)
+ .ARM.attributes
+                0x000004b0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_BindSingleKey.o)
+ .ARM.attributes
+                0x000004c0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o)
+ .ARM.attributes
+                0x000004d0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Destroy.o)
+ .ARM.attributes
+                0x000004e0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_IsTouchPresent.o)
+ .ARM.attributes
+                0x000004f0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_ReadResource.o)
+ .ARM.attributes
+                0x00000500       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_SetCharset.o)
+ .ARM.attributes
+                0x00000510       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_UnbindKey.o)
+ .ARM.attributes
+                0x00000520       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Label_Create.o)
+ .ARM.attributes
+                0x00000530       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Layout_Create.o)
+ .ARM.attributes
+                0x00000540       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetKey.o)
+ .ARM.attributes
+                0x00000550       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWidget.o)
+ .ARM.attributes
+                0x00000560       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_GetWindow.o)
+ .ARM.attributes
+                0x00000570       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetResult.o)
+ .ARM.attributes
+                0x00000580       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Message_SetUserData.o)
+ .ARM.attributes
+                0x00000590       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Picture_Create.o)
+ .ARM.attributes
+                0x000005a0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Print_Create.o)
+ .ARM.attributes
+                0x000005b0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_Create.o)
+ .ARM.attributes
+                0x000005c0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_SetInterval.o)
+ .ARM.attributes
+                0x000005d0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Timer_Stop.o)
+ .ARM.attributes
+                0x000005e0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_Destroy.o)
+ .ARM.attributes
+                0x000005f0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetText.o)
+ .ARM.attributes
+                0x00000600       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_GetUserData.o)
+ .ARM.attributes
+                0x00000610       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_RegisterCallback.o)
+ .ARM.attributes
+                0x00000620       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SearchId.o)
+ .ARM.attributes
+                0x00000630       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackAlign.o)
+ .ARM.attributes
+                0x00000640       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBackColor.o)
+ .ARM.attributes
+                0x00000650       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetBorders.o)
+ .ARM.attributes
+                0x00000660       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetExpand.o)
+ .ARM.attributes
+                0x00000670       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFocusable.o)
+ .ARM.attributes
+                0x00000680       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontName.o)
+ .ARM.attributes
+                0x00000690       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontScale.o)
+ .ARM.attributes
+                0x000006a0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetFontStyle.o)
+ .ARM.attributes
+                0x000006b0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetForeColor.o)
+ .ARM.attributes
+                0x000006c0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetGrow.o)
+ .ARM.attributes
+                0x000006d0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetId.o)
+ .ARM.attributes
+                0x000006e0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetItem.o)
+ .ARM.attributes
+                0x000006f0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetMargins.o)
+ .ARM.attributes
+                0x00000700       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetMinSize.o)
+ .ARM.attributes
+                0x00000710       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetShortcut.o)
+ .ARM.attributes
+                0x00000720       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetShrink.o)
+ .ARM.attributes
+                0x00000730       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetSize.o)
+ .ARM.attributes
+                0x00000740       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetSource.o)
+ .ARM.attributes
+                0x00000750       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetText.o)
+ .ARM.attributes
+                0x00000760       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTextAlign.o)
+ .ARM.attributes
+                0x00000770       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTextPaddings.o)
+ .ARM.attributes
+                0x00000780       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetTransformation.o)
+ .ARM.attributes
+                0x00000790       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetVisible.o)
+ .ARM.attributes
+                0x000007a0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_SetWrap.o)
+ .ARM.attributes
+                0x000007b0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Widget_UnregisterCallback.o)
+ .ARM.attributes
+                0x000007c0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Create.o)
+ .ARM.attributes
+                0x000007d0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_Dispatch.o)
+ .ARM.attributes
+                0x000007e0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_GetResult.o)
+ .ARM.attributes
+                0x000007f0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_MainLoop.o)
+ .ARM.attributes
+                0x00000800       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_Window_PreviousFocus.o)
+ .ARM.attributes
+                0x00000810       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+ .ARM.attributes
+                0x00000820       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(gl_asm_link.o)
+ .ARM.attributes
+                0x00000830       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+ .ARM.attributes
+                0x00000840       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000850       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000860       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00000870       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x00000880       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000890       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x000008a0       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ .ARM.attributes
+                0x000008b0       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ .ARM.attributes
+                0x000008c0       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+ .ARM.attributes
+                0x000008d0       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000008e0       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x000008f0       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x00000900       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x00000910       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+ .ARM.attributes
+                0x00000920       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000930       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x00000940       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000950       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000960       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_addsubdf3.o)
+ .ARM.attributes
+                0x00000970       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_muldivdf3.o)
+ .ARM.attributes
+                0x00000980       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_cmpdf2.o)
+ .ARM.attributes
+                0x00000990       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixdfsi.o)
+ .ARM.attributes
+                0x000009a0       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixunsdfsi.o)
+ .ARM.attributes
+                0x000009b0       0x10 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_truncdfsf2.o)
+ .ARM.attributes
+                0x000009c0       0x10 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/TRAP_TELIUM_PLUS.LIB(upload_diagnostic_txt.o)
+
+.comment        0x00000000       0x23
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .comment       0x00000012       0x11 Obj/GNU_ARM_DEBUG_T2/Main.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/Sale.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/CashBack.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/globals.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/Print.o
+ .comment       0x00000000       0x12 Obj/GNU_ARM_DEBUG_T2/Goal.o
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Atoi.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(Telium_Pprintf.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(sprintf.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(extenstp1.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/eft30tplus.lib(toolstp1.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_GraphicLib_Create.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/lib/GRAPHICLIB.LIB(GL_link.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+ .comment       0x00000000       0x12 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+
+.debug_abbrev   0x00000000     0x22a7
+ .debug_abbrev  0x00000000      0x1ab C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_abbrev  0x000001ab      0x151 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_abbrev  0x000002fc      0x228 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_abbrev  0x00000524       0xef Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_abbrev  0x00000613      0x141 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_abbrev  0x00000754       0x97 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_abbrev  0x000007eb      0x10a Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+ .debug_abbrev  0x000008f5       0xfd Obj/GNU_ARM_DEBUG_T2/Sale.o
+ .debug_abbrev  0x000009f2       0xec Obj/GNU_ARM_DEBUG_T2/CashBack.o
+ .debug_abbrev  0x00000ade       0xa5 Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+ .debug_abbrev  0x00000b83       0xea Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+ .debug_abbrev  0x00000c6d        0x1 Obj/GNU_ARM_DEBUG_T2/globals.o
+ .debug_abbrev  0x00000c6e        0x1 Obj/GNU_ARM_DEBUG_T2/Print.o
+ .debug_abbrev  0x00000c6f      0x189 Obj/GNU_ARM_DEBUG_T2/Goal.o
+ .debug_abbrev  0x00000df8       0x6b C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+ .debug_abbrev  0x00000e63       0xa6 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00000f09       0x85 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x00000f8e       0x89 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_abbrev  0x00001017       0x78 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_abbrev  0x0000108f       0x94 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x00001123       0x85 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .debug_abbrev  0x000011a8      0x31c C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ .debug_abbrev  0x000014c4      0x2d9 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ .debug_abbrev  0x0000179d      0x172 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+ .debug_abbrev  0x0000190f      0x160 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00001a6f      0x220 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+ .debug_abbrev  0x00001c8f      0x337 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+ .debug_abbrev  0x00001fc6       0xce C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+ .debug_abbrev  0x00002094       0x76 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+ .debug_abbrev  0x0000210a       0x78 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+ .debug_abbrev  0x00002182       0x85 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+ .debug_abbrev  0x00002207       0x14 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000221b       0x14 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x0000222f       0x14 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_addsubdf3.o)
+ .debug_abbrev  0x00002243       0x14 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_muldivdf3.o)
+ .debug_abbrev  0x00002257       0x14 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_cmpdf2.o)
+ .debug_abbrev  0x0000226b       0x14 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixdfsi.o)
+ .debug_abbrev  0x0000227f       0x14 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixunsdfsi.o)
+ .debug_abbrev  0x00002293       0x14 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_truncdfsf2.o)
+
+.debug_info     0x00000000     0xd516
+ .debug_info    0x00000000      0xcb8 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_info    0x00000cb8     0x23e8 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_info    0x000030a0     0x18e7 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_info    0x00004987      0x1f8 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_info    0x00004b7f      0x4c5 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_info    0x00005044       0xab Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_info    0x000050ef      0x276 Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+ .debug_info    0x00005365      0x316 Obj/GNU_ARM_DEBUG_T2/Sale.o
+ .debug_info    0x0000567b      0x386 Obj/GNU_ARM_DEBUG_T2/CashBack.o
+ .debug_info    0x00005a01      0x1f7 Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+ .debug_info    0x00005bf8      0x30c Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+ .debug_info    0x00005f04        0x0 Obj/GNU_ARM_DEBUG_T2/globals.o
+ .debug_info    0x00005f04        0x0 Obj/GNU_ARM_DEBUG_T2/Print.o
+ .debug_info    0x00005f04     0x19d0 Obj/GNU_ARM_DEBUG_T2/Goal.o
+ .debug_info    0x000078d4       0xb3 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+ .debug_info    0x00007987       0xfa C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_info    0x00007a81       0xcd C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .debug_info    0x00007b4e       0xe1 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_info    0x00007c2f       0xbb C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_info    0x00007cea       0xcf C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_info    0x00007db9       0xf3 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .debug_info    0x00007eac     0x1032 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ .debug_info    0x00008ede      0xe49 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ .debug_info    0x00009d27      0x2fb C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+ .debug_info    0x0000a022      0x965 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+ .debug_info    0x0000a987      0xc67 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+ .debug_info    0x0000b5ee     0x154a C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+ .debug_info    0x0000cb38      0x146 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+ .debug_info    0x0000cc7e       0xc6 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+ .debug_info    0x0000cd44       0xb3 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+ .debug_info    0x0000cdf7       0xcd C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+ .debug_info    0x0000cec4       0xcb C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_divsi3.o)
+ .debug_info    0x0000cf8f       0xcb C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000d05a       0xca C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_addsubdf3.o)
+ .debug_info    0x0000d124       0xca C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_muldivdf3.o)
+ .debug_info    0x0000d1ee       0xca C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_cmpdf2.o)
+ .debug_info    0x0000d2b8       0xca C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixdfsi.o)
+ .debug_info    0x0000d382       0xca C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixunsdfsi.o)
+ .debug_info    0x0000d44c       0xca C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_truncdfsf2.o)
+
+.debug_line     0x00000000     0x2d23
+ .debug_line    0x00000000      0x1b2 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_line    0x000001b2       0xf0 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_line    0x000002a2      0x274 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_line    0x00000516       0xd8 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_line    0x000005ee      0x118 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_line    0x00000706       0x61 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_line    0x00000767       0xe6 Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+ .debug_line    0x0000084d       0xd6 Obj/GNU_ARM_DEBUG_T2/Sale.o
+ .debug_line    0x00000923       0xda Obj/GNU_ARM_DEBUG_T2/CashBack.o
+ .debug_line    0x000009fd       0xdc Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+ .debug_line    0x00000ad9      0x132 Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+ .debug_line    0x00000c0b        0x0 Obj/GNU_ARM_DEBUG_T2/globals.o
+ .debug_line    0x00000c0b        0x0 Obj/GNU_ARM_DEBUG_T2/Print.o
+ .debug_line    0x00000c0b      0x44e Obj/GNU_ARM_DEBUG_T2/Goal.o
+ .debug_line    0x00001059       0x79 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+ .debug_line    0x000010d2       0xd8 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_line    0x000011aa       0xd6 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .debug_line    0x00001280       0x7f C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_line    0x000012ff       0x81 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_line    0x00001380       0xdc C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_line    0x0000145c       0xde C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .debug_line    0x0000153a      0x38b C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ .debug_line    0x000018c5      0x2a1 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ .debug_line    0x00001b66      0x13f C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+ .debug_line    0x00001ca5      0x132 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+ .debug_line    0x00001dd7      0x1bf C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+ .debug_line    0x00001f96      0x40f C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+ .debug_line    0x000023a5       0xfb C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+ .debug_line    0x000024a0       0x77 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+ .debug_line    0x00002517       0x81 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+ .debug_line    0x00002598       0xdc C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+ .debug_line    0x00002674       0x9c C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_divsi3.o)
+ .debug_line    0x00002710       0x7a C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000278a      0x182 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_addsubdf3.o)
+ .debug_line    0x0000290c      0x197 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_muldivdf3.o)
+ .debug_line    0x00002aa3       0xc4 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_cmpdf2.o)
+ .debug_line    0x00002b67       0x8f C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixdfsi.o)
+ .debug_line    0x00002bf6       0x8d C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixunsdfsi.o)
+ .debug_line    0x00002c83       0xa0 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_truncdfsf2.o)
+
+.debug_frame    0x00000000      0xe28
+ .debug_frame   0x00000000       0x70 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_frame   0x00000070       0x28 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_frame   0x00000098      0x28c Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_frame   0x00000324       0x5c Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_frame   0x00000380       0x7c Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_frame   0x000003fc       0x28 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_frame   0x00000424       0x30 Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+ .debug_frame   0x00000454       0x30 Obj/GNU_ARM_DEBUG_T2/Sale.o
+ .debug_frame   0x00000484       0x30 Obj/GNU_ARM_DEBUG_T2/CashBack.o
+ .debug_frame   0x000004b4       0xa8 Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+ .debug_frame   0x0000055c       0x64 Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+ .debug_frame   0x000005c0      0x324 Obj/GNU_ARM_DEBUG_T2/Goal.o
+ .debug_frame   0x000008e4       0x28 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+ .debug_frame   0x0000090c       0x28 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000934       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000954       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_frame   0x00000974       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_frame   0x00000994       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_frame   0x000009b4       0x28 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .debug_frame   0x000009dc       0x68 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ .debug_frame   0x00000a44       0x60 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ .debug_frame   0x00000aa4       0x30 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+ .debug_frame   0x00000ad4       0x90 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+ .debug_frame   0x00000b64      0x20c C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+ .debug_frame   0x00000d70       0x28 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00000d98       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+ .debug_frame   0x00000db8       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00000dd8       0x28 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+ .debug_frame   0x00000e00       0x28 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_divsi3.o)
+
+.debug_pubnames
+                0x00000000      0xae0
+ .debug_pubnames
+                0x00000000       0x49 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_pubnames
+                0x00000049       0x1b Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_pubnames
+                0x00000064      0x1d8 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_pubnames
+                0x0000023c       0x90 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_pubnames
+                0x000002cc       0x66 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_pubnames
+                0x00000332       0x25 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_pubnames
+                0x00000357       0x27 Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+ .debug_pubnames
+                0x0000037e       0x22 Obj/GNU_ARM_DEBUG_T2/Sale.o
+ .debug_pubnames
+                0x000003a0       0x23 Obj/GNU_ARM_DEBUG_T2/CashBack.o
+ .debug_pubnames
+                0x000003c3       0xa8 Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+ .debug_pubnames
+                0x0000046b       0x5b Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+ .debug_pubnames
+                0x000004c6      0x1ee Obj/GNU_ARM_DEBUG_T2/Goal.o
+ .debug_pubnames
+                0x000006b4       0x1b C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+ .debug_pubnames
+                0x000006cf       0x1d C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_pubnames
+                0x000006ec       0x1d C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .debug_pubnames
+                0x00000709       0x1d C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_pubnames
+                0x00000726       0x1d C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_pubnames
+                0x00000743       0x1d C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_pubnames
+                0x00000760       0x1e C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .debug_pubnames
+                0x0000077e       0x36 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ .debug_pubnames
+                0x000007b4       0x3e C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ .debug_pubnames
+                0x000007f2       0x1f C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+ .debug_pubnames
+                0x00000811       0x39 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+ .debug_pubnames
+                0x0000084a       0xe2 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+ .debug_pubnames
+                0x0000092c      0x13a C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+ .debug_pubnames
+                0x00000a66       0x24 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+ .debug_pubnames
+                0x00000a8a       0x1b C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+ .debug_pubnames
+                0x00000aa5       0x1d C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+ .debug_pubnames
+                0x00000ac2       0x1e C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+
+.debug_aranges  0x00000000      0x480
+ .debug_aranges
+                0x00000000       0x20 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_aranges
+                0x00000020       0x20 Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_aranges
+                0x00000040       0x20 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_aranges
+                0x00000060       0x20 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_aranges
+                0x00000080       0x20 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_aranges
+                0x000000a0       0x20 Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_aranges
+                0x000000c0       0x20 Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+ .debug_aranges
+                0x000000e0       0x20 Obj/GNU_ARM_DEBUG_T2/Sale.o
+ .debug_aranges
+                0x00000100       0x20 Obj/GNU_ARM_DEBUG_T2/CashBack.o
+ .debug_aranges
+                0x00000120       0x20 Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+ .debug_aranges
+                0x00000140       0x20 Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+ .debug_aranges
+                0x00000160       0x20 Obj/GNU_ARM_DEBUG_T2/Goal.o
+ .debug_aranges
+                0x00000180       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+ .debug_aranges
+                0x000001a0       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x000001c0       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x000001e0       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_aranges
+                0x00000200       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_aranges
+                0x00000220       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000240       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .debug_aranges
+                0x00000260       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ .debug_aranges
+                0x00000280       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ .debug_aranges
+                0x000002a0       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+ .debug_aranges
+                0x000002c0       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+ .debug_aranges
+                0x000002e0       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+ .debug_aranges
+                0x00000300       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+ .debug_aranges
+                0x00000320       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+ .debug_aranges
+                0x00000340       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+ .debug_aranges
+                0x00000360       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+ .debug_aranges
+                0x00000380       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x000003a0       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x000003c0       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_addsubdf3.o)
+ .debug_aranges
+                0x000003e0       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_muldivdf3.o)
+ .debug_aranges
+                0x00000400       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_cmpdf2.o)
+ .debug_aranges
+                0x00000420       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixdfsi.o)
+ .debug_aranges
+                0x00000440       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_fixunsdfsi.o)
+ .debug_aranges
+                0x00000460       0x20 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/lib/gcc/arm-elf/4.3.4/thumb/soft/interwork/libgcc.a(_truncdfsf2.o)
+
+.debug_str      0x00000000     0x3854
+ .debug_str     0x00000000       0x20 C:/Users/BettK/POS/SDK11.16.8.PatchC/SDK11.16.8.PatchC/SDKTPLUS/HW_T2/gnu_434/startfiles/libcpatch.o
+ .debug_str     0x00000020      0xe47 Obj/GNU_ARM_DEBUG_T2/Main.o
+                               0x1221 (size before relaxing)
+ .debug_str     0x00000e67      0x64c Obj/GNU_ARM_DEBUG_T2/Entry.o
+                                0xd00 (size before relaxing)
+ .debug_str     0x000014b3       0xac Obj/GNU_ARM_DEBUG_T2/Menu.o
+                                0x2c5 (size before relaxing)
+ .debug_str     0x0000155f      0x458 Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+                                0x6fa (size before relaxing)
+ .debug_str     0x000019b7       0x29 Obj/GNU_ARM_DEBUG_T2/Utils.o
+                                 0xa0 (size before relaxing)
+ .debug_str     0x000019e0       0x3b Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+                                0x2f3 (size before relaxing)
+ .debug_str     0x00001a1b       0x34 Obj/GNU_ARM_DEBUG_T2/Sale.o
+                                0x3bd (size before relaxing)
+ .debug_str     0x00001a4f       0x72 Obj/GNU_ARM_DEBUG_T2/CashBack.o
+                                0x3f0 (size before relaxing)
+ .debug_str     0x00001ac1       0xea Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+                                0x34c (size before relaxing)
+ .debug_str     0x00001bab       0x90 Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+                                0x32c (size before relaxing)
+ .debug_str     0x00001c3b      0xb1a Obj/GNU_ARM_DEBUG_T2/Goal.o
+                               0x1152 (size before relaxing)
+ .debug_str     0x00002755       0xb7 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+                                0x153 (size before relaxing)
+ .debug_str     0x0000280c       0xd6 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+                                0x16b (size before relaxing)
+ .debug_str     0x000028e2       0x50 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memset.o)
+                                0x157 (size before relaxing)
+ .debug_str     0x00002932       0x50 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+                                0x150 (size before relaxing)
+ .debug_str     0x00002982       0xc8 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+                                0x15d (size before relaxing)
+ .debug_str     0x00002a4a       0x60 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+                                0x16c (size before relaxing)
+ .debug_str     0x00002aaa       0x5e C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+                                0x175 (size before relaxing)
+ .debug_str     0x00002b08      0x58e C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+                                0x6f2 (size before relaxing)
+ .debug_str     0x00003096      0x105 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+                                0x6ed (size before relaxing)
+ .debug_str     0x0000319b       0x60 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+                                0x286 (size before relaxing)
+ .debug_str     0x000031fb       0xd1 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-impure.o)
+                                0x521 (size before relaxing)
+ .debug_str     0x000032cc      0x27b C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+                                0x763 (size before relaxing)
+ .debug_str     0x00003547      0x12b C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+                                0x615 (size before relaxing)
+ .debug_str     0x00003672       0xea C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+                                0x1a9 (size before relaxing)
+ .debug_str     0x0000375c       0x4e C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+                                0x16e (size before relaxing)
+ .debug_str     0x000037aa       0x58 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+                                0x15d (size before relaxing)
+ .debug_str     0x00003802       0x52 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+                                0x159 (size before relaxing)
+
+.debug_loc      0x00000000     0x4a6a
+ .debug_loc     0x00000000       0x2b Obj/GNU_ARM_DEBUG_T2/Main.o
+ .debug_loc     0x0000002b      0x439 Obj/GNU_ARM_DEBUG_T2/Entry.o
+ .debug_loc     0x00000464       0x81 Obj/GNU_ARM_DEBUG_T2/Menu.o
+ .debug_loc     0x000004e5       0xad Obj/GNU_ARM_DEBUG_T2/DateScreen.o
+ .debug_loc     0x00000592       0x2b Obj/GNU_ARM_DEBUG_T2/Utils.o
+ .debug_loc     0x000005bd       0x2c Obj/GNU_ARM_DEBUG_T2/MenuManager.o
+ .debug_loc     0x000005e9       0x2c Obj/GNU_ARM_DEBUG_T2/Sale.o
+ .debug_loc     0x00000615       0x2c Obj/GNU_ARM_DEBUG_T2/CashBack.o
+ .debug_loc     0x00000641      0x102 Obj/GNU_ARM_DEBUG_T2/UserInterface.o
+ .debug_loc     0x00000743       0x82 Obj/GNU_ARM_DEBUG_T2/CardSwipe.o
+ .debug_loc     0x000007c5      0x514 Obj/GNU_ARM_DEBUG_T2/Goal.o
+ .debug_loc     0x00000cd9       0x32 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-atof.o)
+ .debug_loc     0x00000d0b       0x5b C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-memcpy.o)
+ .debug_loc     0x00000d66       0x5a C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strchr.o)
+ .debug_loc     0x00000dc0       0x13 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcpy.o)
+ .debug_loc     0x00000dd3       0x26 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strlen.o)
+ .debug_loc     0x00000df9       0x79 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncpy.o)
+ .debug_loc     0x00000e72     0x17f4 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strtod.o)
+ .debug_loc     0x00002666      0x91b C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ .debug_loc     0x00002f81      0x339 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-hexnan.o)
+ .debug_loc     0x000032ba       0xf2 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-locale.o)
+ .debug_loc     0x000033ac     0x1566 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+ .debug_loc     0x00004912       0xd7 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
+ .debug_loc     0x000049e9       0x13 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-sf_nan.o)
+ .debug_loc     0x000049fc       0x13 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strcmp.o)
+ .debug_loc     0x00004a0f       0x5b C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-strncmp.o)
+
+.debug_ranges   0x00000000       0xa0
+ .debug_ranges  0x00000000       0x28 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-gdtoa-gethex.o)
+ .debug_ranges  0x00000028       0x60 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-mprec.o)
+ .debug_ranges  0x00000088       0x18 C:/Users/BettK/POS/IngeDev_8.18.0.5/toolchains/gnuArm4/arm-elf/lib/thumb/soft/interwork/libc.a(lib_a-s_fpclassify.o)
